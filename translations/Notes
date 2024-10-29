@@ -1,0 +1,2 @@
+To be loaded, translation files should use the following naming convention. 
+aWP-XX.po / aWP-XX.mo where XX is the two character language code (ja, en, de, fr etc)

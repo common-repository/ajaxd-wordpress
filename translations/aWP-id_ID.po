@@ -1,0 +1,1894 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: aWP 1.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-13 13:54-0500\n"
+"PO-Revision-Date: 2009-05-20 00:47+0700\n"
+"Last-Translator: Hendry Lee <hendry.lee@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /share/www/trunk/wp-content/plugins/ajaxd-wordpress\n"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/aWP.php:444
+msgid "Uncategorized"
+msgstr "Tidak terkategorikan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/aWP.php:471
+msgid "AJAXed WordPress"
+msgstr "AJAXed WordPress"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/aWP.php:494
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:282
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/inlinecommentform.php:293
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/inlinecommentform.php:456
+msgid "Add a Comment"
+msgstr "Tambahkan sebuah Komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/aWP.php:495
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/aWP.php:497
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:283
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/inlinecommentform.php:294
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/inlinecommentform.php:457
+msgid "Cancel reply"
+msgstr "Batalkan balasan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/aWP.php:496
+msgid "Reply to %author"
+msgstr "Balas ke %author"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/aWP.php:504
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:162
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:466
+msgid "Comments are closed"
+msgstr "Komentar ditutup"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/aWP.php:505
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:153
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:467
+msgid "No Comments"
+msgstr "Tidak ada komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/aWP.php:506
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:468
+msgid "Show Comments"
+msgstr "Tampilkan Komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/aWP.php:507
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:469
+msgid "Hide Comments"
+msgstr "Sembunyikan Komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/aWP.php:514
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:760
+msgid "Click to continue reading \"%title\""
+msgstr "Klik untuk lanjut membaca \"%title\""
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/aWP.php:515
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:761
+msgid "Hide \"%title\""
+msgstr "Sembunyikan \"%title\""
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/aWP.php:516
+msgid "Go straight to Post"
+msgstr "Langsung ke Tulisan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/aWP.php:520
+msgid "a comment"
+msgstr "sebuah komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/aWP.php:521
+#, php-format
+msgid "% comments"
+msgstr "% komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/aWP-response.php:40
+msgid "Invalid ID."
+msgstr "ID tidak sah."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:254
+msgid "AJAX Options"
+msgstr "Opsi-Opsi AJAX"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:256
+msgid "What Javascript Library do you want to use?"
+msgstr "Perpustakaan Javascript apa yang Anda mau pakai?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:258
+msgid "Use TWSack Library"
+msgstr "Pergunakan Perpustakaan TWSack"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:259
+msgid "This library is only 5KB and is the default."
+msgstr "Perpustakaan ini hanya 5KB dan adalah bawaan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:262
+msgid "Use JQuery"
+msgstr "Pakai JQuery"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:263
+msgid "(This library is 19KB, includes effects, and is the prefered \"advanced\" library.)"
+msgstr "(Perpustakaan ini 19KB, termasuk efek-efek, dan adalah perpustakaan \"lanjutan\" yang lebih disukai.)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:266
+msgid "Use MooTools"
+msgstr "Pergunakan MooTools"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:267
+msgid "(This library is 25KB, includes no effects by default.)"
+msgstr "(Perpustakaan ini hanya 25KB, tidak termasuk efek-efek secara bawaan.)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:270
+msgid "Use Prototype.js"
+msgstr "Pakai Prototype.js"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:271
+msgid "(This library is 55KB, is not suggested, and uses Scriptaculous for effects )"
+msgstr "(Perpustakaan ini 55KB, tidak direkomendasikan, dan memakai Scriptacalous sebagai efek-efek.)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:275
+msgid "Advanced AJAX Options"
+msgstr "Opsi AJAX Lanjutan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:275
+msgid "Use the following at your own risk."
+msgstr "Pakai yang berikut ini atas risiko sendiri."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:277
+msgid "Use the JS library selected above, but DO NOT load it."
+msgstr "Pakai perpustakaan JS terpilih di atas, tapi JANGAN dimuatkan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:284
+msgid "Special Effect Options"
+msgstr "Opsi Efek Khusus"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:285
+msgid "Special Effects"
+msgstr "Efek Khusus"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:286
+msgid "Would you like special effects? Without them there is an abrupt transition when new content is loaded."
+msgstr "Apakah Anda ingin efek khusus? Tanpanya tidak ada transisi tiba-tiba ketika konten baru dimuat."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:288
+msgid "The following effects are built into the plugin. There is no other way to have effects on posts. These effects will add no extra javascript to your webpage."
+msgstr "Efek berikut ini dibangun ke dalam plugin. Tidak ada ada cara untuk memperoleh efek pada tulisan. Efek ini tidak akan menambahkan javascript ekstra pada halaman web Anda."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:290
+msgid "Which built in Post effect do you want?"
+msgstr "Efek Tulisan bawaan mana yang ingin Anda pergunakan?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:291
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:308
+msgid "Slide Up scrolls the container up and down, Scroll Left pushes all of the text to the left and pulls it back to the right, Expand stretches and shrinks the text (not the container) horizontally and also vertically (if no child element has a set line height)"
+msgstr "Luncur ke Atas menggulung kontainer ke atas dan ke bawah, Gulung ke Kiri menolak semua tulisan ke kiri dan menariknya kembali ke kanan, Perluas menarik dan mengerutkan tulisan (bukan kontainer) secara horizontal dan juga vertikal (jika tidak ada elemen anak yang ditentukan tinggi barisnya)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:292
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:309
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:320
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:334
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:351
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:359
+msgid "None"
+msgstr "Tidak ada"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:293
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:310
+msgid "Expand"
+msgstr "Perluas"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:294
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:311
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:335
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:336
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:337
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:360
+msgid "Slide Up"
+msgstr "Luncur ke Atas"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:295
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:312
+msgid "Fade"
+msgstr "Pudar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:296
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:313
+msgid "Scroll Left"
+msgstr "Gulung ke Kiri"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:299
+msgid "What is the background color of your posts?"
+msgstr "Apa warna latar belakang dari tulisan Anda?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:300
+msgid "In hex format (#FFFFFF) Due to a bug in IE you must set a background color for your posts if you want to use the fade effect. This only needs to be set if your post backgrounds are not white."
+msgstr "Dalam format hex (#FFFFFF) Karena sebuah kesalahan di IE Anda harus mengeset sebuah warna latar untuk tulisan Anda jika Anda ingin menggunakan efek pemudaran. Ini hanya perlu diset jika latar tulisan Anda bukan putih."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:305
+msgid "The following effect will be used for showing and hiding the comment form, comments and all show/hide combinations except for posts. This option is overruled by setting a library-specific effect below."
+msgstr "Efek berikut ini akan dipergunakan untuk menampilkan dan menyembunyikan formulir komentar, komentar dan semua kombinasi tampilkan/sembunyikan kecuali untuk tulisan. Opsi ini ditimpa dengan pengaturan spesifik untuk perpustakan di bawah ini."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:307
+msgid "What effect would you like to use for your non-post show/hides?"
+msgstr "Efek apa yang ingin Anda pergunakan untuk tampilkan/sembunyikan yang bukan tulisan?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:318
+msgid "The following effects are only used when the JQuery AJAX Library is selected."
+msgstr "Efek berikut ini hanya dipergunakan ketika Perpustakaan AJAX JQuery dipilih."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:321
+msgid "JQuery show comments/add comments effect"
+msgstr "JQuery menunjukkan komentar/tambahkan efek komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:322
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:323
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:324
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:352
+msgid "Slide Down"
+msgstr "Luncur ke Bawah"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:322
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:325
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:328
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:335
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:338
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:341
+msgid "Slow"
+msgstr "Pelan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:323
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:326
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:329
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:336
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:339
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:342
+msgid "Fast"
+msgstr "Cepat"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:325
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:326
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:327
+msgid "Fade In"
+msgstr "Terangkan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:328
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:329
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:330
+msgid "Show"
+msgstr "Tampilkan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:333
+msgid "and hide effect"
+msgstr "dan sembunyikan efek"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:338
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:339
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:340
+msgid "Fade Out"
+msgstr "Pudarkan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:341
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:342
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:343
+msgid "Hide"
+msgstr "Sembunyikan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:349
+msgid "The following effects are only used when the Prototype AJAX Library is selected."
+msgstr "Efek di bawah ini hanya akan dipergunakan jika Perpustakaan AJAX Prototype dipilih."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:350
+msgid "Scriptaculous show comments/add comments effect"
+msgstr "Scriptaculous menampilkan/menambahkan efek komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:353
+msgid "Blind Down"
+msgstr "Gelapkan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:354
+msgid "Appear"
+msgstr "Muncul"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:355
+msgid "Grow"
+msgstr "Tumbuh"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:358
+msgid "Hide effect"
+msgstr "Efek sembunyi"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:361
+msgid "Blind Up"
+msgstr "Menerang"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:362
+msgid "Fade out"
+msgstr "Pudar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:363
+msgid "Shrink"
+msgstr "Perkecil"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:364
+msgid "Puff"
+msgstr "Kepul"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:365
+msgid "Switch Off"
+msgstr "Dimatikan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:366
+msgid "Drop Out"
+msgstr "Jatuh Keluar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:367
+msgid "Squish"
+msgstr "Semprot"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-ajax.php:368
+msgid "Fold"
+msgstr "Lipat"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:14
+msgid "Edit AJAXed Wordpress Configuration"
+msgstr "Sunting Konfigurasi AJAXed WordPress"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:17
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:47
+msgid "Admin"
+msgstr "Administrasi"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:18
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:48
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:86
+msgid "Modules"
+msgstr "Modul"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:19
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:49
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:685
+msgid "Overall Options"
+msgstr "Opsi Keseluruhan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:20
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:50
+msgid "Posts &amp; Pages"
+msgstr "Tulisan &amp; Halaman"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:21
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:51
+msgid "Comments"
+msgstr "Komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:22
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:52
+msgid "Comment Form"
+msgstr "Formulir Komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:23
+msgid "Integrations"
+msgstr "Integrasi"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:24
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:53
+msgid "AJAX &amp; Effects"
+msgstr "AJAX &amp; Efek"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:25
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:54
+msgid "Other"
+msgstr "Lainnya"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:34
+msgid "Welcome to the AJAXed WordPress Dashboard."
+msgstr "Selamat Datang ke Dasbor AJAXed WordPress."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:40
+msgid "This is a quick over-view of AJAXed WordPress (AWP)."
+msgstr "Ini adalah tinjauan cepat dari AJAXed WordPress (AWP)."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:40
+msgid "In the future, I plan to integrate tools that will make AWP even more useful"
+msgstr "Di masa yang akan datang, saya merencanakan untuk mengintegrasikan alat bantu yang dapat membuat AWP semakin bermanfaat"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:42
+msgid "Need Help? <a href=\"http://anthologyoi.com/awp/\">Visit the Official AWP support thread</a> or try reading <a href=\"http://anthologyoi.com/awp/ajaxd-wordpress-readme\">the full documentation</a>."
+msgstr "Butuh Bantuan? <a href=\"http://anthologyoi.com/awp/\">Kunjungi dukungan Resmi AWP</a> atau coba baca <a href=\"http://anthologyoi.com/awp/ajaxd-wordpress-readme\">dokumentasi penuh</a>."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:44
+msgid "To add, change or update AWP options, you may use the nav bar above to select between the different screens. Some screens may be empty, but this does not mean anything is wrong."
+msgstr "Untuk menambahkan, ubah atau perbarui opsi AWP, Anda dapat memakai nav bar di atas untuk memilih antara tampilan yang berbeda. Beberapa tampilan mungkin kosong, tapi ini tidak berarti ada yang salah."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:44
+msgid "Screens are only hidden, so you only need to save the options when you are completely finished."
+msgstr "Tampilan hanya tersembunyi, jadi Anda hanya perlu menyimpan opsi ketika Anda telah selesai."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:47
+msgid "This is the Admin screen, and it is the \"dashboard\" for AJAXed WordPress."
+msgstr "Ini adalah layar Admin, dan merupakan \"dahbor\" untuk AJAXed WordPress."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:48
+msgid "This is similar to the plugins page in WordPress. Most features must first be enabled or disabled here."
+msgstr "ini sama dengan halaman plugin dalam WordPress. Kebanyakan fitur harus diaktifkan atau dimatikan di sini."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:49
+msgid "These are options built into the core itself and that are used by all or most modules. For example, the throbber you use."
+msgstr "Opsi-opsi ini dibangun ke dalam inti dan dipergunakan untuk semua modul. Contoh, throbber yang Anda gunakan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:50
+msgid "These options control the way AWP displays posts or pages including feature such as inline or embedded posts. Any modules that modify posts or pages use this screen."
+msgstr "Opsi-opsi ini mengontrol cara AWP menampilkan tulisan atau halaman termasuk fitur seperti tulisan tersusun atau terlampir. Modul yang memodifikasi tulisan atau halaman menggunakan halaman ini."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:51
+msgid "The options on this screen control the way AWP displays comments and controls features such as threaded comments. Any modules that modify the way comments are displayed will use this screen."
+msgstr "Opsi-opsi pada layar ini mengontrol cara AWP menampilkan komentar dan mengontrol fitur seperti komentar bersusun. Modul yang memodifikasi cara komentar ditampilkan menggunakan halaman ini."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:52
+msgid "This screen holds the options and controls the form that allows the user to submit comments. Any modules that modify the comment form will use this screen."
+msgstr "Layar ini berisi opsi dan mengontrol formulir yang mengizinkan pemakai untuk mengirimkan komentar. Modul yang memodifikasi formulir komentar akan menggunakan layar ini."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:53
+msgid "This is primarily used by the AWP Core (not modules), and allows you to select from a variety of effects and JavaScript libraries. "
+msgstr "Ini terutama dipakai oleh AWP Core (bukan modul), dan mengizinkan Anda untuk memilih berbagai variasi efek dan perpustakaan JavaScript."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:54
+msgid "This page is used for modules that don't fit in with the other categories."
+msgstr "Halaman ini diapkai oleh modul yang tidak cocok dimasukkan ke kategori lain."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:57
+msgid "Some common queries:"
+msgstr "Beberapa pertanyaan yang umum:"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:60
+msgid "I activated the plugin and nothing is happening. How do I get it working?"
+msgstr "Saya mengaktifkan plugin dan tidak ada yang terjadi. Bagaimana membuatnya berfungsi?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:62
+msgid "It depends what features you want to have. When you first start the plugin the only feature that is active is your posts are split on the more tag."
+msgstr "Ianya tergantung dari fitur yang ingin Anda miliki. Ketika Anda pertama kali memulai plugin satu-satunya fitur yang aktif adalah tulisan Anda dipisahkan oleh tag more."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:64
+msgid "If you want comments and the comment form on the front page, for example, you will have to make a few theme edits as described <a href=\"http://anthologyoi.com/awp/ajaxd-wordpress-readme\">in the readme</a>, or if you want inline posts, you will have to set a method to \"split\" them and a length in the aWP administration panel under the posts tab."
+msgstr "Jika Anda ingin komentar dan formulir komentar di halam depan, contohnya, Anda harus menyunting tema seperti diterangkan <a href=\"http://anthologyoi.com/awp/ajaxd-wordpress-readme\">dalam readme</a>, atau jika Anda ingin tulisan tersusun, Anda harus mengeset metode untuk \"memilahnya\" dan panjang tulisan dalam administrasi aWP dalam tabulasi tulisan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:66
+msgid "When will AWP be translated?"
+msgstr "Kapan AWP akan diterjemahkan?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:68
+msgid "When there is someone who is willing to translate it. Could it be you?"
+msgstr "Ketika ada orang yang mau menerjemahkannya. Mungkinkan itu Anda?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:70
+msgid "Why do the AWP comments look so bad on my theme?"
+msgstr "Mengapa komentar AWP kelihatan sangat jelek pada tema saya?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:72
+msgid "AWP uses a very generic template by default. On some themes it fits in perfectly, some not so good and some it is flat out ugly. However, it is easy to update the styling, and you can also get help in the support forum."
+msgstr "AWP memakai templat yang sangat generik secara bawaan. Pada beberapa tema ia kelihatan sempurna, beberapa tidak begitu bagus dan yang lainnya keliatan jelek. Bagaimanapun, ianya mudah untuk memperbarui penggayaan, dan Anda dapat juga mendapatkan bantuan dari forum dukungan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:77
+msgid "I hope that this was helpful to you. Enjoy using AJAXed WordPress."
+msgstr "Saya harap ini dapat membantu Anda. Nikmati pemakaian AJAXed WordPress."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:88
+msgid "AJAXed Wordpress is made up of many smaller plugins called modules."
+msgstr "AJAXed WordPress terdiri dari banyak plugin yang lebih kecil yang dinamakan modul."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:88
+msgid "You may disable or enable modules here."
+msgstr "Anda dapat mematikan atau mengaktifkan modul di sini."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:88
+msgid "Some modules may need to have some of their features explicitly enabled after activation."
+msgstr "Beberapa modul membutuhkan beberapa fitur yang diaktifkan tersendiri setelah aktivasi."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:119
+msgid "If this block is empty it is not an error. It just doesn't have anything to display."
+msgstr "Jika blok ini kosong ia bukan kesalahan. Ia hanya tidak punya sesuatu untuk ditampilkan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:133
+msgid "Options for testing this configuration."
+msgstr "Opsi untuk mengetes konfigurasi ini."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:135
+msgid "Save these settings as a test."
+msgstr "Simpan pengaturan ini sebagai tes."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:135
+msgid "The settings will not be publicily visible, and you will not be able to edit the actual blog settings until they are deleted or saved."
+msgstr "Pengaturan ini tidak akan terlihat secara publik, dan Anda tidak akan bisa menyunting pengaturan blog yang sebenarnya hingga dihapus atau disimpan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:136
+msgid "Delete test settings."
+msgstr "Hapus pengaturan percobaan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:136
+msgid "(This reverts the admin panel settings back to the live settings.)"
+msgstr "(Ini mengembalikan pengaturan panel admin ke pengaturan yang sedang berjalan.)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:137
+msgid "Save these settings normally."
+msgstr "Simpan pengaturan ini secara normal."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:141
+msgid "Save"
+msgstr "Simpan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:150
+msgid "Plugin Info:"
+msgstr "Info Plugin:"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:152
+msgid "AWP Homepage"
+msgstr "Halaman Depan AWP"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:153
+msgid "AWP Changelog"
+msgstr "Log Perubahan AWP"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:154
+msgid "AWP Readme"
+msgstr "Readme AWP"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:155
+msgid "AWP Theme Support"
+msgstr "Dukungan Tema AWP"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:156
+msgid "Support Forum"
+msgstr "Forum Dukungan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:157
+msgid "Author Homepage"
+msgstr "Halaman Depan Pengarang"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:158
+msgid "Donate"
+msgstr "Donasi"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:163
+msgid "Utilities:"
+msgstr "Alat Bantu:"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:164
+msgid "Show all current saved AWP options"
+msgstr "Tampilkan semua opsi AWP yang tersimpan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:172
+msgid "The following are your current AWP <em>TEST</em> options:"
+msgstr "Ini adalah opsi <em>TES</em> AWP yang terkini:"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:183
+msgid "The following are your current AWP <em>SAVED</em> options:"
+msgstr "Ini adalah opsi <em>TERSIMPAN</em> AWP yang terkini:"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:198
+msgid "Restore options from a backup."
+msgstr "Kembalikan opsi dari cadangan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:200
+msgid "(These options will be stored as test options, so you may review them.)"
+msgstr "(Opsi ini akan disimpan sebagai tes, sehingga Anda dapat mengulasnya.)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:207
+msgid "Restore Options"
+msgstr "Opsi Pengembalian"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:212
+msgid "Reset to default settings"
+msgstr "Reset ke pengaturan bawaan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:216
+msgid "Confirm Reset?"
+msgstr "Konfirmasi Reset?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:217
+msgid "Reset Settings"
+msgstr "Reset Pengaturan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:226
+#, php-format
+msgid "Dear %s,"
+msgstr "Salam %s,"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:228
+msgid "This plugin is a free and open source project that has been in constant development for almost two years. I have personally invested hundreds of hours into the project and have tried to provide the best free support possible. Have you found aWP useful?"
+msgstr "Plugin ini adalah gratis dan projek open source yang telah dikembangkan secara konstan untuk hampir dua tahun. Saya telah menginvestasikan ratusan jam untuk projek ini dan telah mencoba memberikan dukungan cuma-cuma sebagaimana mungkin. Apakah Anda mendapatkan aWP berguna?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:230
+msgid "If so, please consider making a small donation. Most people donate anywhere from $5 - $100, and all donations, <strong>even the small ones</strong>, help to defray my costs and support continued development. (Besides, all donators get a link on the main aWP page and its daily 200 - 500 unique visitors.)"
+msgstr "Jika ya, harap pertimbangkan untuk memberikan donasi kecil. Kebanyakan orang memberikan donasi dari $5 - $100, dan semua donasi, <strong>bahkan yang kecil</strong>, membantu membayar biaya dan mendukung pengembangan yang berkesinambungan. (Di samping itu, semua donasi mendapatkan sebuah taut di halaman depan aWP dan 200 - 500 pengunjung harian yang unik.)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin_panel.php:233
+msgid "If you can't donate, please at least consider leaving the small footer link enabled."
+msgstr "Jika Anda tidak dapat memberikan donasi, mohon setidaknya mempertimbangkan untuk mengaktifkan taut catatan kaki yang kecil."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:70
+msgid "Invalid module."
+msgstr "Modul tidak valid."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:72
+msgid "Plugin file does not exist."
+msgstr "Berkas plugin tidak ada."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:185
+msgid "More Information"
+msgstr "Informasi Lebih Lanjut"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:517
+msgid "Visit plugin homepage"
+msgstr "Kunjungi halaman depan plugin"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:523
+msgid "Visit author homepage"
+msgstr "Kunjungi halaman depan pengarang"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:536
+msgid "Module"
+msgstr "Modul"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:537
+msgid "Module Version"
+msgstr "Versi Modul"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:538
+msgid "AWP Version"
+msgstr "Versi AWP"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:539
+msgid "Description"
+msgstr "Deskripsi"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:541
+msgid "Status"
+msgstr "Status"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:542
+msgid "Action"
+msgstr "Aksi"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:554
+msgid "Deactivate this AWP Module"
+msgstr "Nonaktifkan Modul AWP"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:554
+msgid "Deactivate"
+msgstr "Nonaktifkan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:557
+msgid "Active"
+msgstr "Aktif"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:559
+msgid "Activate this module"
+msgstr "Aktifkan modul ini"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:559
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:560
+msgid "Inactive"
+msgstr "Tidak Aktif"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:581
+#, php-format
+msgid "By %s"
+msgstr "Oleh %s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:605
+msgid "Remove these messages."
+msgstr "Singkiran pesan ini."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:610
+msgid "AWP options updated."
+msgstr "Opsi AWP diperbarui."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:613
+msgid "Module Activated Successfully."
+msgstr "Modul Diperbarui Secara Sukses."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:616
+msgid "Module Deactivated Successfully."
+msgstr "Modul Dinonaktifkan Secara Sukses."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:619
+msgid "The module you attempted to activate has an error in it and could not be activated."
+msgstr "Terdapat kesalahan dalam modul yang Anda coba aktifkan dan ia tidak dapat diaktifkan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:622
+msgid "AWP settings restored to defaults."
+msgstr "Pengaturan AWP dikembalikan ke bawaan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:625
+msgid "Options successfully saved as test options. Please review them for consistancy before saving."
+msgstr "Opsi telah berhasil disimpan sebagai opsi tes. Mohon diperiksa konsistensinya sebelum disimpan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:628
+msgid "AWP test options updated. These settings will not go live until you save them."
+msgstr "Opsi tes AWP telah diperbarui. Pengaturan ini tidak akan dipakai sebelum Anda menyimpannya."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:631
+msgid "AWP test options deleted."
+msgstr "Opsi tes AWP telah dihapus."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:636
+msgid "This version of Wordpress is outdated and not supported by this plugin. Please upgrade to the latest version from"
+msgstr "Versi WordPress ini telah kedaluarsa dan tidak didukung oleh plugin ini. Mohon perbarui ke versi terakhir dari"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:644
+msgid "You are using the test options currently. You must save them as live options or delete them to see the current live options."
+msgstr "Anda menggunakan opsi percobaan. Anda harus menyimpannya sebagai opsi langsung atau menghapusnya untuk melihat opsi yang sedang dipakai saat ini."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:644
+msgid "To view these settings append ?awp=test to any URL in your blog or click the follwing link to view your homepage>"
+msgstr "Untuk melihat pengaturan ini bubuhkan ?awp=test pada URL apapun pada blog Anda atau klik taut berikut ini untuk melihat halaman depan Anda>"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:687
+msgid "All options on this control the overall options for the plugin, and options that are used by multiple modules."
+msgstr "Semua opsi ini mengontrol opsi keseluruhan untuk plugin, dan opsi yang dipakai oleh berbagai modul."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:691
+msgid "You may customize the texts for %count here. A % will be replaced with the number of comments. Example: A show text of \"Show %count inline\" and a \"some comments\" text of \"% comments\" on a post with 5 comments will be displayed as \"Show 5 comments inline.\""
+msgstr "Anda dapat menyesuakan tulisan %count di sini. Sebuah % akan diganti dengan jumlah komentar. Sebagai contoh: A menunjukkan tulisan \"Tunjukkan %count di dalam\" dan tulisan \"beberapa komentar\" dari \"% komentar\" pada tulisan dengan 5 komentar akan ditampilkan sebagai \"Tunjukkan 5 komentar di dalam.\""
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:693
+#, php-format
+msgid "One Comment Text: %s"
+msgstr "Satu Tulisan Komentar: %s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:694
+#, php-format
+msgid "Some Comments: %s"
+msgstr "Beberapa Komentar: %s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:695
+#, php-format
+msgid "Zero Comments: %s"
+msgstr "Nol Komentar: %s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:700
+msgid "By default, all template files reside in the aWP module's folder; however, if you customise them, these changes are overwritten when you upgrade. The following options allow you to move all template files into other directories, so the files are not overwritten during upgrades."
+msgstr "Secara bawaan, semua berkas templat berada dalam folder modul aWP; jika Anda menyesuaikannya, perubahan ini ditimpa ketika Anda memperbarui. Opsi ini mengizinkan Anda untuk memindahkan berkas templat ke direktori yang lain, sehingga berkas tidak tertimpa sewaktu pembaharuan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:701
+msgid "In the following options, the extended information uses %something% to designate the name of files. These are based on the theme, module, or file you are currently using. The module name is the same as its folder name. If the specified file is not found, the plugin defaults to the default template. If this occurs, ensure you have created the directory structure properly."
+msgstr "Dalam opsi ini, informasi perpanjangan menggunakan %sesuatu% untuk melambangkan nama berkas. Ini dibasiskan pada tema, modul atau berkas yang Anda pergunakan saat ini. Nama modul adalah sama seperti nama folder. Jika berkas yang disebutkan tidak ada, plugin secara bawaan memakai templat bawaan. Jika ini terjadi, pastikan Anda membuat struktur direktori dengan benar."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:703
+msgid "All module template files are in their default location."
+msgstr "Semua berkas templat modul ada pada lokasi bawaan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:704
+msgid "This option should be selected if you have not modified the templates, and these files may be overwritten when uploading later versions."
+msgstr "Opsi ini seharusnya dipilih jika Anda tidak memodifikasi templat, dan berkas ini mungkin ditimpa ketika mengunggah versi berikutnya."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:708
+msgid "Some or all templates are in my current WordPress theme's folder."
+msgstr "Beberapa templat ada pada folder tema WordPress."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:709
+msgid "All customized templates should be in a folder in your wordpress theme.<br />The files should be in the following structure: <br />%theme_directory%/aWP/%module_name%/%template_file%.php"
+msgstr "Semua templat tersuai seharusnya berada dalam folder dalam tema WordPress Anda.<br /> Berkas-berkas seharusnya memakai struktur ini: <br />%theme_directory%/aWP/%module_name%/%template_file%.php"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:713
+msgid "Some or all templates are in a directory in my plugins directory."
+msgstr "Beberapa atau semua templat ada di direktori dalam direktori plugin saya."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:714
+msgid "All customized templates should be in a folder in your wordpress plugins directory.<br />The files should be in the following structure: <br />plugins/aWP-templates/%module_name%/%template_file%.php"
+msgstr "Semua templat tersuai seharusnya ada di folder plugin WordPress Anda. <br />Berkas-berkas seharusnya ada dalam struktur seperti ini: <br />plugins/aWP-templates/%module_name%/%template_file%.php"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:719
+msgid "Why be like everyone else? Pick your own Throbber."
+msgstr "Mengapa seperti orang lain? Pilih Throbber Anda sendiri."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:742
+msgid "When content is loaded inline what should aWP do?"
+msgstr "Ketika konten dimuat di dalam tulisan apa yang harus aWP lakukan?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:744
+msgid "There should be a smooth scrolling effect that slowly brings the user to the new content."
+msgstr "Harusnya ada efek penggulungan yang mulus yang secara perlahan membawa pemakai pada konten baru."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:747
+msgid "Attempt to focus immediately on the new content."
+msgstr "Mencoba memfokus secepatnya pada konten baru."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:750
+msgid "No scrolling of any kind. Let the user find the new content on their own."
+msgstr "Tidak ada penggulungan dalam bentuk apa pun. Izinkan pemakai menemukan konten baru sendiri."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:755
+msgid "Do not load default CSS."
+msgstr "Jangan memuat CSS bawaan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:756
+msgid "AWP loads some default structural CSS. This will disable it, but it will not disable the required CSS."
+msgstr "AWP memuat struktur CSS secara bawaan. Ini akan mematikannya, tapi tidak akan mematikan CSS yang diperlukan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:759
+msgid "Load JavaScript in the blog footer."
+msgstr "Muat JavaScript dalam catatan kaki blog."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:763
+msgid "AJAXed WordPress News"
+msgstr "Berita AJAXed WordPress"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:765
+msgid "Disable all news announcements?"
+msgstr "Matikan semua pengumuman berita?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:768
+msgid "Disable news announcments of donations?"
+msgstr "Matikan semua berita pengumuman tentang donasi?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:773
+msgid "Append a small link to aWP to blog footer."
+msgstr "Bubuhkan taut kecil ke aWP pada catatan kaki blog."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:774
+msgid "Please consider leaving this option checked to append a small \"AJAXed with AWP\" link in the footer of your blog's front page. This helps promote the plugin."
+msgstr "Mohon pertimbangkan untung meninggalkan opsi ini tercentang untuk membubuhkan taut \"AJAXed with AWP\" pada catatan kaki di halaman depan blog Anda. Ini membantu mempromosikan plugin."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-admin.php:774
+msgid "(As of version 1.19, this is no longer a site-wide link.)"
+msgstr "(Sejak versi 1.19, ini bukan lagi taut yang menyeluruh pada situs.)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-upgrade.php:30
+msgid "Threaded comments is now its own module, and it no longer requires inline comments for functionality."
+msgstr "Komentar berlapis punya modul tersendiri sekarang, dan tidak lagi memerlukan komentar tersusun untuk fungsinya."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-upgrade.php:40
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-upgrade.php:74
+msgid "Threaded comments module has been activated."
+msgstr "Modul komentar berlapis telah diaktivasi."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-upgrade.php:44
+msgid "\"AJAXed With AWP\" link is now only displayed on the homepage."
+msgstr "Taut \"AJAXed With AWP\" hanya ditampilkan pada halaman muka."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-upgrade.php:46
+msgid "Comment counts now return actual comment count. New tags have been added for trackbacks and total \"comments.\""
+msgstr "Jumlah komentar sekarang mengembalikan angka komentar yang sebenarnya. Tag baru telah ditambahkan untuk trackback dan total \"komentar.\""
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-upgrade.php:52
+msgid "Version 1.19.2 fixes bugs with AJAX Nav and Inline Posts module."
+msgstr "Versi 1.19.2 memperbaiki kesalahan dengan AJAX Nav dan modul Post Tersusun."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-upgrade.php:53
+msgid "Admin panel tabs that show empty panels are now hidden after load."
+msgstr "Tabulasi panel admin menampilkan panel kosong sekarang disembunyikan setelah pemuatan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-upgrade.php:57
+msgid "Preview comment module now works with Rich Text Editor."
+msgstr "Modul peninjauan komentar sekarang bekerja dengan Penyunting Rich Text."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/control/aWP-upgrade.php:62
+msgid "News from the AWP twitter stream is now automatically updated here."
+msgstr "Berita dari twitter AWP sekarang diperbarui di sini."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/awp-edit-comments.php:41
+msgid "WP AJAX Edit Comments Options."
+msgstr "Opsi Penyunting Komentar WP AJAX."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/awp-edit-comments.php:42
+msgid "WP AJAX Edit Comments Support"
+msgstr "Dukungan Penyunting Komentar WP AJAX"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/awp-edit-comments.php:43
+msgid "This module just helps WP AJAX Edit Comments to find new inline loaded comments."
+msgstr "Modul ini membantu Penyuntingan Komentar WP AJAX menemukan komentar tersusun yang dimuat."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:511
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/embeddedposts.php:123
+msgid "Click to continue reading"
+msgstr "Klik untuk lanjut membacakan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:512
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/embeddedposts.php:127
+msgid "Click to hide post"
+msgstr "Klik untuk menyembunyikan tulisan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:634
+msgid "Inline Post Options."
+msgstr "Opsi Tulisan Tersusun"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:635
+msgid "Inline Posts"
+msgstr "Tulisan Tersusun"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:637
+msgid "Use Simple Posts"
+msgstr "Pakai Tulisan Sederhana"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:638
+msgid "Simple Posts\" allows you to continue using the_content and the_excerpt in your theme file, but the plugin will work as if you edited your theme files. This will also filter anything that applies the content and excerpt filters. This <em>may</em> cause undesirable effects with certain plugins; if you have any problems with it, you may want to edit your files as described in the instructions."
+msgstr "Tulisan Sederhana\" menizinkan Anda memakai the_content dan the_excerpt dalam berkas templat Anda, tapi plugin akan bekerja seolah-olah Anda menyunting berkas tema. Ini akan memfilter apapun yang mengaplikasikan filter konten dan cuplikan. Ini <em>mungkin</em> menyebabkan efek yang tidak diinginkan dengan plugin tertentu; jika Anda menemukan masalah, Anda dapat menyunting berkas Anda sesuai dengan instruksi."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:643
+msgid "The following texts are the default texts displayed when a post has more than one page. You can use the tags %title, %author, %date, %categories, %count (comment count) and %time to show their respective data in the following textboxes."
+msgstr "Teks berikut ini adalah tulisan bawaan yang ditampilkan ketika sebuah tulisan mempunyai lebih dari satu halaman. Anda dapat memakai tag %title, %author, %date, %categories, %count (jumlah komentar) dan %time untuk menunjukkan data terkait dalam kotak teks."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:645
+#, php-format
+msgid "Show text (for posts): %s"
+msgstr "Tampilkan teks (untuk tulisan): %s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:646
+#, php-format
+msgid "Hide text (for posts): %s"
+msgstr "Sembunyikan teks (untuk tulisan): %s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:648
+msgid "Automatically use \"go straight to post\" link?"
+msgstr "Pergunakan taut \"langsung ke tulisan\" secara otomatis?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:649
+#, php-format
+msgid "Go straight to post text: %s"
+msgstr "Teks langsung ke tulisan: %s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:653
+msgid "Use the following method to create excerpts or pages."
+msgstr "Pergunakan metode di bawah ini untuk membuat cuplikan atau halaman."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:655
+msgid "Only on more or nextpage tags."
+msgstr "Hanya pada tag more atau nextpage."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:656
+msgid "This option will only split a post when you specifically set a &lt;!--more--&gt; or &lt;!--nextpage--&gt; tag."
+msgstr "Opsi ini akan memilah sebuah tulisan ketika Anda mengeset tag &lt;!--more--&gt; atau &lt;!--nextpage--&gt;."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:658
+msgid "By paragraphs (unless more tag)."
+msgstr "Sebelum paragraf (kecuali ada lebih banyak tag)."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:659
+msgid "This is a dumb method, so its use is not recommended because it does not differentiate between a 10 word paragraph and a 400 word one. By default a more tag will always overrule this option."
+msgstr "Ini cara yang aga kaku, jadi tidak direkomendasikan karena ianya tidak membedakan antara paragraf dengan 10 kata dan 400 kata. Secara bawaan tag more akan m"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:661
+msgid "By word count (with full sentences)."
+msgstr "Berdasarkan jumlah kata (dengan kalimat penuh)."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:662
+msgid "This is you best option to have a uniform look and feel while keep posts attractive and easy to read for readers. This will create use your word count as a guide and fit in as many complete sentences as possible. By default a more tag will always overrule this option."
+msgstr "Ini adalah opsi terbaik untuk memiliki tampilan yang serasi dan membuat tulisan menarik serta mudah dibaca. Ini akan menggunakan jumlah kata sebagai petunjuk dan memuat sebanyak mungkin kalimat penuh sebagaimana mungkin. Secara bawaan tag more akan selalu menimpa opsi ini."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:664
+msgid "By word count (exact word count)."
+msgstr "Berdasarkan jumlah kata (jumlah kata yang tepat)."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:665
+msgid "This is a \"dumb\" method. It chops off pages at exactly the number of words specified. By default a more tag will always overrule this option"
+msgstr "Ini adalah metode yang \"bodoh\". Ianya memenggal halaman pada jumlah kata yang tepat. Secara bawaan tag more akan menimpa opsi ini."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:667
+#, php-format
+msgid "Show %s words or paragraphs."
+msgstr "Tampilkan %s kata atau paragraf."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:668
+msgid "Whether this is used to determine paragraphs or words will depend on your split mode, so if you change your split mode do not forget to change this also."
+msgstr "Apakah ini akan dipergunakan untuk menentukan paragraf atau kata tergantung dari mode pemenggalan, jadi jika Anda mengganti mode pemenggalan jangan lupa untuk mengubah ini juga."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:670
+msgid "Strip excerpt?"
+msgstr "Buang cuplikan?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:671
+msgid "By default after clicking to see the rest of a post, the excerpt will be re-shown. This option will trim the excerpt from the post."
+msgstr "Secara bawaan setelah mengklik untuk melihat sisa dari tulisan, cuplikan akan ditampilkan ulang. Opsi ini akan memotong cuplikan dari tulisan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:673
+msgid "Hide default excerpt?"
+msgstr "Sembunyikan cuplikan bawaan?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:674
+msgid "Normally, AWP automatically uses a explicitly set excerpt, if it exists; selecting this option disables this behavior."
+msgstr "Secara normal, AWP akan secara otomatis menggunakan cuplikan yang diset, jika ada; memilih opsi ini akan mematikan fungsi ini."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:676
+msgid "Strip HTML in preview?"
+msgstr "Buang HTML dalam tinjauan?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:677
+msgid "If HTML is stripped, links, text decoration, images and all other HTML will be removed."
+msgstr "Jika HTML dibuang, taut, dekorasi tulisan, gambar dan semua HTML lain akan disingkirkan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:680
+msgid "Treat code, bloquotes and pre blocks as single words?"
+msgstr "Anggap code, blockquotes and block pre sebagai kata tunggal?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:681
+msgid "When posts are split based on paragraphs or words, this option will protect blockquotes, code and pre blocks from being included in the word count. This may mean that a long code segment etc may go over the specified length; however, this is probably preferable to users only getting a partial segment."
+msgstr "Ketika tulisan dipenggal berdasarkan paragraf atau kata, opsi ini akan melindungi blockquotes, code dan blok pre terhadap perhitungan kata. Ini berarti bagian kode yang panjang dsb akan melebihi panjang yang ditentukan; tapi, ini mungkin lebih diutamakan oleh pemakai daripada memperoleh bagian yang terputus."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:686
+msgid "Use awp_pages function for post show/hide links?"
+msgstr "Pakai fungsi awp_pages untuk penampilan/penghilangan taut tulisan?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:687
+msgid "If this option is checked no link will be shown unless you add do_action('awp_pages'); or awp_title() inside your theme. Not recommended for beginners."
+msgstr "Jika opsi ini dicentang tidak ada taut yang ditunjukkan kecuali Anda menambahkan do_action(\"awp_pages\"); atau awp_title() dalam tema Anda. Tidak direkomendasikan  untuk pemula."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:693
+msgid "Inline Paginated Posts"
+msgstr "Tulisan Penomoran Halaman Tersusun"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:694
+msgid "Inline Post Pagination Options."
+msgstr "Opsi Tulisan Penomoran Halaman Tersusun"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:695
+msgid "By default AWP only creates two pages, a short preview and everything else; however, by enabling the Post Pagination you will be able to create additional pages to further split the post. This is in addition to the Inline Post Module: not a replacement for it."
+msgstr "Secara bawaan AWP hanya akan membuat dua halaman, sebuah tinjauan singkat dan yang lainnya; tapi, dengan mengaktifkan Penomoran Halaman Tulisan Anda akan dapat membuat halaman tambahan untuk secara lanjut memisahkan tulisan. Ini sebagai tambahan pada Modul Tulisan Tersusun: bukan penggantinya."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:697
+#, php-format
+msgid "Each page after the excerpt should be %s words or paragraphs (based on the split mode) long."
+msgstr "Setiap halaman setelah cuplikan seharusnya sepanjang %s kata atau paragraf (berdasarkan mode pemenggalan)."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:700
+msgid "The following options will style your page links (if you have any). Each may contain XHTML"
+msgstr "Opsi di bawah ini akan menggayakan taut halaman Anda (jika ada). Dapat berisi XHTML"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:702
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/paginatedpages.php:89
+msgid "Combined the example options with CSS styling yield: <br /><ul class=\"examplemenu\" style=\"display:inline !important;\"> <li><a>Page 1 </a></li><li><a>Page 2 </a></li><li><a>Page 3 </a></li></ul>"
+msgstr "Kombinasikan opsi contoh dengan hasil penggayaan CSS: <br /> <ul class=\"examplemenu\" style=\"display:inline !important;\"> <li><a>Halaman 1 </a></li><li><a>Halaman  2 </a></li><li><a>Halaman 3 </a></li></ul>"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:704
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/paginatedpages.php:91
+msgid " Before page list."
+msgstr "Sebelum daftar halaman."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:705
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/paginatedpages.php:92
+msgid "(&lt;ul&gt;)"
+msgstr "(&lt;ul&gt;)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:707
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/paginatedpages.php:94
+msgid " After page list."
+msgstr "Setelah daftar halaman."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:708
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/paginatedpages.php:95
+msgid "&lt;li&gt;"
+msgstr "&lt;li&gt;"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:710
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/paginatedpages.php:97
+msgid " Before individual page links."
+msgstr "Sebelum taut halaman individu."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:711
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:714
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/paginatedpages.php:98
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/paginatedpages.php:101
+msgid "(&lt;li&gt;)"
+msgstr "(&lt;li&gt;)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:713
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/paginatedpages.php:100
+msgid " After individual page links."
+msgstr "Setelah taut halaman individu."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:716
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/paginatedpages.php:103
+msgid "The page links"
+msgstr "Taut halaman"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:717
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/paginatedpages.php:104
+msgid "A % sign will be replaced with the page number (Page % )"
+msgstr "Sebuah tanda % akan digantikan dengan nomor halaman (Halaman %)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:719
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/paginatedpages.php:106
+msgid "Separator between individual page links"
+msgstr "Pemisah antara taut halaman individu"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlineposts.php:720
+msgid "Paginate single page posts also?"
+msgstr "Paginasi tulisan tunggal juga?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/embeddedposts.php:143
+msgid "Embedded Posts Options"
+msgstr "Opsi Embedded Posts"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/embeddedposts.php:144
+msgid "Embedded Posts"
+msgstr "Embedded Posts"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/embeddedposts.php:146
+#, php-format
+msgid "Show text (for embedded posts): %s"
+msgstr "Tampilkan teks (untuk embedded posts): %s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/embeddedposts.php:147
+#, php-format
+msgid "Hide text (for embedded posts): %s"
+msgstr "Sembunyikan teks (untuk embedded posts): %s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/shift_pages.php:39
+msgid "Move pages so the first page (the normal excerpt) is empty? "
+msgstr "Pindahkan halaman ke halaman pertama (cuplikan normal) kosong?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/preview_comment.php:88
+msgid "Preview"
+msgstr "Tinjauan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/preview_comment.php:105
+msgid "Preview Comment"
+msgstr "Tinjau Komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/preview_comment.php:106
+msgid "Preview comment Options"
+msgstr "Opsi peninjau komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/awpcache.php:153
+msgid "Cache Options."
+msgstr "Opsi Tembolok."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/awpcache.php:154
+msgid "Cache"
+msgstr "Tembolok"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/awpcache.php:155
+msgid "This module will cache the paginated post (just the paged content that AWP creates not the modifications other plugins do to it), the text of the post show/hide links and the entire comment list with formatting. The module automatically removes the old cached items when they are out of date and re-caches them the next time they are needed. This will speed up processing time exponentially."
+msgstr "Modul ini akan memasukkan dalam tembolok tulisan terpaginasi (hanya konten halaman yang diciptakan AWP bukan modifikasi yang dilakukan plugin lain), teks tulisan menunjukkan/menyembunyikan taut dan seluruh daftar komentar melalui pemformatan. Modul secara otomatis menyingkirkan tembolok yang lama ketika sudah kedaluarsa dan menyegarkannya pada kesempatan lain ketika dibutuhkan. Ini akan mempercepat waktu pemrosesan secara eksponensial."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/removemores.php:38
+msgid "Remove more tags from posts from before AWP was activated?"
+msgstr "Singkirkan tag more dari tulisan dari sebelum AWP diaktivasikan?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/removemores.php:39
+msgid "If you used more tags before you installed AWP then you may remove them with this module. Posts after the first install date will not have more tags removed."
+msgstr "Jika anda mempergunakan tag more sebelum anda menginstalasi AWP maka anda dapat menyingkirkannya dari modul ini. Tulisan setelah tanggal instalasi pertama tidak akan menyingkirkan tag more."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/customoptions.php:112
+msgid "Add Custom Option"
+msgstr "Tambahkan Opsi Penyesuaian"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/customoptions.php:136
+msgid "Current Post Custom Options"
+msgstr "Opsi Penyesuaian Tulisan Terkini"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/customoptions.php:145
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/customoptions.php:156
+msgid "Delete Option?"
+msgstr "Opsi Hapus?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/customoptions.php:146
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/customoptions.php:157
+msgid "Edit Custom Option"
+msgstr "Opsi Penyuntingan Penyesuaian"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/customoptions.php:234
+#, php-format
+msgid "<strong>Custom Options </strong> -- %s"
+msgstr "<strong>Opsi Penyesuaian </strong> -- %s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/customoptions.php:235
+msgid "Occasionally certain posts will not fit with the flow of the rest of the site and do not fit with the general options used. Selecting the following option will allow you to use custom options on a post-by-post basis."
+msgstr "Terkadang tulisan tertentu tidak akan muat dengan sisa alur dari situs dan tidak muat dengan opsi umum yang dipakai. Memilih opsi berikut ini akan mengizinkan anda menggunakan opsi penyesuaian pada basis halaman per halaman."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/customoptions.php:329
+msgid "Custom AWP options for this post"
+msgstr "Opsi penyesuaian AWP untuk tulisan ini"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/paginatedpages.php:84
+msgid "Paginated Pages Options"
+msgstr "Opsi Halaman Terpaginasi"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/paginatedpages.php:85
+msgid "Paginated Pages"
+msgstr "Halaman Terpaginasi"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/paginatedpages.php:87
+msgid "The following options will style your default page links (if you have any). Each may contain XHTML"
+msgstr "Opsi berikut ini akan menggayakan taut halaman bawaan (jika punya). Diizinkan memiliki XHTML"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:150
+msgid "Show Replies to this Comment"
+msgstr "Tampilkan Balasan untuk Komentar ini"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:185
+msgid "Invalid parent"
+msgstr "Induk tidak valid"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:344
+msgid "Threaded Comments"
+msgstr "Komentar Berulir"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:345
+msgid "Threaded Comments Module."
+msgstr "Modul Komentar Berulir."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:348
+msgid "Use Simple Threading to thread comments on your theme's default comments.php?"
+msgstr "Pakai Ulir Sederhana untuk komentar terulir pada comments.php bawaan tema anda?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:349
+msgid "\"Simple Threading\" will attempt to use your default comment template to thread comments."
+msgstr "\"Uliran Sederhana\" akan mencoba menggunakaan templat komentar bawaan untuk komentar berulir."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:349
+msgid "If you use this method, your theme must use a standard template that is based on &amp;lt;ol> tags or have been edited for compatibility"
+msgstr "Jika anda memakai metode ini, tema anda harus memakai templat bawaan yang didasarkan pada tag &amp;lt;ol> atau telah disunting untuk kompatibilitas"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:349
+msgid "To make a file not based on an &amp;lt;ol> list compatible, you must add &amp;lt;!--AWP_inlinecomments--> directly before the tag that starts your comment list and directly after the tag that ends it. There must be no characters or blank spaces between the two."
+msgstr "Untuk membuat sebuah berkas tidak kompatibel dengan daftar &amp;lt;ol>, anda harus menambahkan &amp;lt;!--AWP_inlinecomments--> secara langsung pada tag yang memlai daftar komentar dan setelah tag yang mengakhirinya. Harus tidak ada spasi atau karakter di antara keduanya."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:349
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:331
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:336
+msgid "Certain features may not be available."
+msgstr "Fitur tertentu mungkin tidak tersedia."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:353
+msgid "Show comment form text for replies to comments"
+msgstr "Tunjukkan teks formulir komentar untuk balasan ke komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:354
+msgid "Hide comment form text for replies to comments"
+msgstr "Sembunyikan teks formulir komentar dari balasan komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:357
+#, php-format
+msgid "Thread comments %s replies deep."
+msgstr "Komentar berulir sedalam %s balasan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:358
+msgid "Depth is the number of child replies that will be shown before they are no longer nested inside of each other. (A number of 1 will thread comments, but will show them without nesting. This is useful for older posts, so readers can read comments in context.)"
+msgstr "Kedalaman adalah jumlah balasan anak yang akan ditampilkan sebelum mereka tidak lagi diselubung satu sama lain. (Angka 1 akan mengulirkan komentar, tapi akan menampilkan tanpa selubung. Ini beguna untuk tulisan yang lama, sehingga pembaca dapat membaca komentar dalam konte.)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:363
+msgid "When using threaded comments what do you want done with children comments when their parents are deleted?"
+msgstr "Ketika memakai komentar berulir apa yang anda ingin kerjakan dengan komentar anak ketika induk dihapus?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:366
+msgid "Do nothing."
+msgstr "Tidak melakukan apa-apa."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:367
+msgid "Child comments will be stranded and will not be displayed."
+msgstr "Komentar anak tidak akan digabung dan tidak akan ditampilkan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:371
+msgid "Shift child comments up a level."
+msgstr "Dorong komentar anak naik satu level."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:372
+msgid "Child comments will become the children of the parent comment's parent or be a top-level comment."
+msgstr "Komentar anak akan menjadi anak dari induk komentar induk atau menjadi komentar level teratas."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:376
+msgid "Reset child comments to have no parent."
+msgstr "Reset komentar anak agar tidak memiliki induk."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:377
+msgid "Replies to the child comments will remain threaded to the child comments."
+msgstr "Balasan ke komentar anak akan senantiasa berulir untuk komentar anak."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:381
+msgid "Delete all child comments."
+msgstr "Hapus semua komentar anak."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/threaded_comments.php:382
+msgid "Including the replies to child comments."
+msgstr "Mengikutsertakan balasan pada komentar anak."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/compatabilities.php:81
+msgid "Add compatibility with the following Scripts and Plugins."
+msgstr "Tambah kompatibilitas dengan Skrip dan Plugin berikut."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:122
+msgid "Show Posts Comments"
+msgstr "Tunjukkan Komentar Tulisan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:123
+msgid "Hide Post Comments"
+msgstr "Sembunyikan Komentar Tulisan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:185
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Tulisan ini diproteksi dengan kata kunci. Masukkan kata kunci untuk melihat komentar."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:284
+msgid "Inline Comments"
+msgstr "Komentar Inline"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:285
+msgid "Inline Comments Module."
+msgstr "Modul komentar Inline"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:288
+msgid "Use Simple Comments?"
+msgstr "Pakai Komentar Tunggal?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:289
+msgid "\"Simple Comments\" allows you to continue using comments_template in your theme files, and will automatically replace your default template with AWP comments and the AWP comment form."
+msgstr "\"Komentar Tunggal\" mengijinkan anda untuk terus menggunakan comments_template dalam berkas tema, dan akan secara otomatis menggantikan templat bawaan dengan komentar AWP dan formulir komentar AWP."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:294
+msgid "The following texts are for comments. You can use the tags %title, %author, %date, %count, %trackbacks, %time, and %total to show their respective data in the following textboxes."
+msgstr "Teks di bawah ini adalah untuk komentar. Anda dapat menggunakan tag %title, %author, %date, %count, %tracbacks, %time, dan %total untuk menunjukkan data yang bersangkutan pada kotak teks."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:296
+#, php-format
+msgid "Show text: %s"
+msgstr "Tampilkan teks: %s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:297
+#, php-format
+msgid "Hide text: %s"
+msgstr "Sembunyikan teks: %s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:299
+#, php-format
+msgid "No Comments Text: %s"
+msgstr "Teks Tidak Ada Komentar: %s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:300
+#, php-format
+msgid "Comments closed text: %s"
+msgstr "Teks komentar tertutup: %s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:305
+msgid "On pages and single posts you may have the comments open by default. This will allow the user to refresh the comments and post using AJAX, but allows search engines and users without Javascript to see the comments by default."
+msgstr "Pada halaman dengan tulisan tunggal anda mungkin membuka komentar secara bawaan. Ini akan mengijinkan pemakai untuk me-refresh komentar dan tulisan menggunakan AJAX, tapi mengijinkan mesin pencari dan pemakai tanpa Javascript melihat komentar secara bawaan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:308
+msgid "Have Comments open by default on single post pages?"
+msgstr "Komentar terbuka secara bawaan pada halaman tulisan tunggal?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:312
+msgid "Have Comments open by default on pages?"
+msgstr "Komentar terbuka secara bawaan pada halaman?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:316
+msgid "Have Comments open by default on the index page?"
+msgstr "Komentar terbuka secara bawaan pada halaman indeks?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:322
+msgid "Comments work best when used with AWP's default template; however it can be changed with some restrictions: if you set it to use the theme's default comment template then the add comment box will be disabled and the show/hide comments link will work for both add comments and comments, and you will no longer be able to use AJAX comments."
+msgstr "Komentar bekerja terbaik ketika dipergunakan dengan templat bawaan AWP; tapi ia juga dapat diganti dengan beberapa batasan: jika anda mengesetnya agar memakai tema templat komentar bawaan maka kotak tambah komentar akan dimatikan dan taut tampilkan/sembunyikan komentar akan bekerja untuk tambahkan komentar dan komentar-komentar, dan anda tidak akan dapat menggunakan komentar AJAX."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:325
+msgid "Use the default template for AWP that is built into the plugin."
+msgstr "Pakai templat bawaan untuk AWP yang dibangun ke dalam plugin."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:326
+msgid "(This can be customized below.)"
+msgstr "(Ini dapat disesuaikan di bawah ini.)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:330
+msgid "Attempt to modify your theme's default comment template."
+msgstr "Mencoba memodifikasi templat komentar bawaan tema anda."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:331
+msgid "If you use this method, your theme must use a standard template that is based on &amp;lt;ol> tags or you must edit it for compatibility."
+msgstr "Jika anda mempergunakan metode ini, tema anda harus menggunakan templat standar yang berbasis pada tag &amp;lt;ol> atau anda harus menyuntingnya untuk kompatibilitas."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:331
+msgid "To make a file not based on an &amp;lt;ol> list compatible, you must add &amp;lt;!--awp_comments--> directly before the tag that starts your comment list and directly after the tag that ends it. There must be no characters or blank space between the two."
+msgstr "Untuk membuat sebuah berkas tidak berbasis pada daftar yang kompatibel &amp;lt;ol>, anda harus menambahkan &amp;lt;!--awp_comments--> secara langsung sebelum tag yang memulai daftar komentar dan lagnsung sebelum tag yang menutupnya. Harus tidak ada karakter atau spasi kosong setelah keduanya."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:335
+msgid "Use your theme's default comment template."
+msgstr "Pakai templat komentar bawaan tema."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:336
+msgid "Template must be named comments.php and be a standard template."
+msgstr "Templat harus dinamakan comments.php dan berupa templat bawaan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:340
+msgid "Use a custom awp comment template for your theme."
+msgstr "Pakai sebuah templat komentar awp tersuai untuk tema anda."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:341
+msgid "This should be named awp-comments.php and must reside inside your default theme folder. This is separate from the overall option to move templates into your theme folder. This option is for when you want to basically use the default comments.php file with just a couple tweaks."
+msgstr "Ini harus dinamakan awp-comments.php dan harus berada dalam folder tema bawaan. Ini terpisah dari opsi keseluruhan untuk memindahkan templat ke dalam folder tema anda. Opsi ini untuk ketika anda hendak mempergunakan berkas comments.php bawaan dengan beberapa perubahan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:343
+msgid "Show newest comments first?"
+msgstr "Tampilkan komentar terbaru terlebih dadulu?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:348
+msgid "Separate Pingbacks/trackbacks from normal comments (ones loaded with the rest of the page):"
+msgstr "Pisahkan Pingback/trackback dari komentar normal (dimuat pada  sisa halaman):"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:351
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:368
+msgid "Do not separate comments from trackbacks."
+msgstr "Jangan pisahkan komentar dengan trackback."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:355
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:372
+msgid "Separate trackbacks from comments."
+msgstr "Pisahkan trackback dari komentar."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:356
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:373
+msgid "This will move the trackbacks to the bottom of the comment list."
+msgstr "Ini akan memindahkan trackback ke bawah dari daftar komentar."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:360
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:377
+msgid "Do not show Trackbacks."
+msgstr "Jangan tampilkan Trackback."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:361
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:378
+msgid "Trackbacks will not show up at all when the comments are loaded through AWP."
+msgstr "Trackback tidak akan ditampilkan sama sekali ketika komentar dimuat melalui AWP."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:365
+msgid "Separate Pingbacks/trackbacks from <i>inline</i> comments (ones loaded after the rest of the page loads):"
+msgstr "Pisahkan Pingback/trackback dari komentar <i>inline</i> (yang dimuat setelah sisa halaman termuat):"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:383
+msgid "If you need the default template to fit in specifically with your theme, then you may set the specific elements here"
+msgstr "JIka anda perlu templat bawaan muat dalam tema anda, anda mungkin harus mengeset elemen tertentu di sini"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:385
+#, php-format
+msgid " Tag before/after all comments: %s /"
+msgstr "Tag sebelum/sesudah semua komentar: %s /"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:387
+msgid "Suggested tags for this level: ol or div. To have indentation without using an ordered list (to fit in with your theme.) Use divs and add the following to your style.css file. <code>.post_comments div * > div {padding-left:1em;}</code>"
+msgstr "Tag yang disarankan untuk level ini: ol atau div. Agar memiliki indentasi tanpa mempergunakan daftar berurut (agar muat dalam tema.) Pergunakan divs dan tambahkan yang di bawah ini ke berkas style.css. <code>.post_comments div * > div {padding-left:1em;}</code>"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:390
+#, php-format
+msgid " Tag before/after reply comments: %s /"
+msgstr "Tag sebelum/sesudah komentar balasan: %s /"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:392
+msgid "Suggested tags for this level: ol or div."
+msgstr "Tag yang disarankan untuk level ini: ol atau div."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:395
+#, php-format
+msgid " Tag before/after each comment: %s /"
+msgstr "Tag sebelum/sesudah setiap komentar: %s /"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:397
+msgid "Suggested tags for this level: li or div."
+msgstr "Tag yang disarankan untuk level ini: li atau div."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:400
+#, php-format
+msgid " Tag before/after Title Bar: %s /"
+msgstr "Tag sebelum/sesudah Title Bar: %s /"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/inlinecomments.php:402
+msgid "Suggested tags for this level: p, div or span"
+msgstr "Tag yang disarankan untuk level ini: p, div atau span"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/templates/simplecomments.php:17
+msgid "Do not load this file directly."
+msgstr "Jangan memuat berkas ini secara langsung."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/templates/comment.php:22
+#, php-format
+msgid "%1$s posted the following on %2$s at %3$s."
+msgstr "%1$s mempublikasikan ini pada %2$s %3$s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/templates/comment.php:24
+msgid "- Edit"
+msgstr "- Sunting"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/templates/comment.php:34
+msgid "This comment is awaiting moderation."
+msgstr "Komentar ini menunggu dimoderasi."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/templates/trackback.php:14
+#, php-format
+msgid "Trackback from %s"
+msgstr "Trackback dari %s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/templates/trackback.php:16
+#, php-format
+msgid "Pingback from %s"
+msgstr "Pingback dari %s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecomments/templates/trackbacks.php:5
+msgid "Trackbacks and Pingbacks"
+msgstr "Trackback dan Pingback"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:254
+msgid "AJAX Page could not be loaded."
+msgstr "Halaman AJAX tidak dapat dimuat."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:395
+msgid "Ajax Navigation"
+msgstr "Navigasi AJAX"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:396
+msgid "Ajax Navigation Options"
+msgstr "Opsi Navigasi Ajax"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:398
+msgid "Use AJAX navigation with specific parts of your blog."
+msgstr "Pakai navigasi AJAX pada bagian spesifik dari blog anda."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:399
+msgid "Modify wp_list_pages to load pages inline?"
+msgstr "Modifikasi wp_list_pages untuk memuat halaman inline?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:400
+msgid "Modify wp_list_categories to load archives inline?"
+msgstr "Modifikasi wp_list_categories untuk memuat arsip inline?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:401
+msgid "Load single page navigation inline?"
+msgstr "Muat navigasi halaman tunggal inline?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:402
+msgid "Load index page navigation inline?"
+msgstr "Muat navigasi halaman index inline?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:403
+msgid "Attempt to AJAXify your theme's search form?"
+msgstr "Usahakan meng-AJAX formulir pencarian tema anda?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:406
+msgid "AJAX everything"
+msgstr "AJAX segalanya"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:407
+msgid "Do not automatically attempt to load blog pages inline."
+msgstr "Jangan secara otomatis memuat halaman blog inline."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:408
+msgid "Attempt to load ALL blog pages inline?"
+msgstr "Usahakan memuat SEMUA halaman blog inline?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:411
+msgid "Advanced options for Single Post Navigation"
+msgstr "Opsi lanjutan untuk Navigasi Tulisan Tunggal"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:413
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:428
+msgid "Show links above posts."
+msgstr "Tampilkan taut-taut di atas tulisan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:417
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:432
+msgid "Show navigation links below posts."
+msgstr "Tampilkan taut navigasi di bawah tulisan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:421
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:440
+msgid "Do not show navigation links automatically."
+msgstr "Jangan tampilkan taut navigasi secara otomatis."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:422
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:441
+msgid "You will have to edit your theme manually."
+msgstr "Anda harus menyunting tema anda secara manual."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:426
+msgid "Advanced options for Home Page Navigation"
+msgstr "Opsi lanjutan untuk Navigasi Halaman Depan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:436
+msgid "Show navigation links both above and below posts."
+msgstr "Tampilkan taut navigasi di atas dan di bawah tulisan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:446
+msgid "The following options control the automatic addition of the required awp_loop div. If you select any of the following options, you will have to edit your theme manually to load that type of pages inline."
+msgstr "Opsi di bawah ini mengontrol penambahan otomatis div awp_loop yang diperlukan. Jika anda memilih opsi di bawah ini, anda harus menyunting tema secara manual untuk memuat tipe tulisan inline tersebut."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:447
+msgid "Do NOT automatically add awp_loop div on Single post/page pages."
+msgstr "Jangan secara otomatis menambahkan div awp_loop pada halaman tulisan/halaman tunggal."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:450
+msgid "Do NOT automatically add awp_loop div on Home and Archive pages."
+msgstr "Jangan secara otomatis menambahkan div awp_loop pada halaman Depan dan Arsip."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:452
+msgid "Do NOT automatically add awp_loop div on ANY page."
+msgstr "Jangan menambahkan secara otomatis div awp_loop pada halaman apapun."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/ajaxnav/ajaxnav.php:477
+msgid "Navigation"
+msgstr "Navigasi"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/richtext/awp-richeditor.php:84
+msgid "Toggle WYSIWYG"
+msgstr "Toggle WYSIWYG"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/richtext/awp-richeditor.php:162
+msgid "AWP RichText Options."
+msgstr "Opsi RichText AWP."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/richtext/awp-richeditor.php:163
+msgid "AWP Richtext Support"
+msgstr "Dukungan Richtext AWP"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/richtext/awp-richeditor.php:164
+msgid "This module adds the abiliuty to use a WYSIWYG interface with the comment form on single pages."
+msgstr "Modul ini menambahkan kemampuan mempergunakan antarmuka WYSIWYG dengan formulir komentar pada halaman tunggal."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/core_cache/core_cache.php:101
+msgid "Core Cache Options."
+msgstr "Opsi Tembolok Utama."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/core_cache/core_cache.php:102
+msgid "Core Cache"
+msgstr "Tembolok Utama"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/core_cache/core_cache.php:103
+msgid "This module updates a static file when options are saved rather than reloading WP to generate the core JS and CSS files."
+msgstr "Modul ini memperbaharui berkas statis ketika opsi disimpan bukannya memuat kembali WP untuk menghasilkan berkas JS dan CSS utama."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/quicktags/quicktags.php:46
+#, php-format
+msgid "<strong>Quicktags</strong> -- %s Show buttons above comment form to add html tags such as &lt;strong&gt; and &lt;code&gt;"
+msgstr "<strong>Quicktags</strong> -- %s Tampilkan tombol di atas formulir komentar untuk menambahkan tag html seperti &lt;strong&gt; dan &lt;code&gt;"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/quicktags/quicktags.php:63
+#, php-format
+msgid "<strong>Clickable Smilies</strong> -- %s Show all available smilies above comment form, and automatically add them to comments when clicked."
+msgstr "<strong>Smilies yang Dapat Diklik</strong> -- %s Tampilkan semua smilies  yang tersedia di atas formulir, dan secara otomatis tambahkan komentar ketika diklik."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/quicktags/quicktags.php:64
+msgid "You must have WordPress smilies enabled for this feature to be useful."
+msgstr "Anda harus mengaktifkan smilies WordPress agar fitur ini berguna."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/quicktags/quicktags.php:104
+msgid "Close all open tags"
+msgstr "Tutup semua tag yang terbuka"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/quicktags/quicktags.php:104
+msgid "Close Tags"
+msgstr "Tutup Tag"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/inlinecommentform.php:258
+msgid "Your comment has been submitted"
+msgstr "Komentar anda telah dikirim"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/inlinecommentform.php:395
+msgid "Add Comment Box Options"
+msgstr "Tambahkan Opsi Kotak Komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/inlinecommentform.php:396
+msgid "Ajax Comment Form"
+msgstr "Formulir Komentar Ajax"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/inlinecommentform.php:398
+msgid "Show text (show comment form)"
+msgstr "Tampilkan teks (tampilkan formulir komentar)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/inlinecommentform.php:399
+msgid "Hide text (hide comment form)"
+msgstr "Sembunyikan tulisan (sembunyikan formulir komentar)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/inlinecommentform.php:402
+msgid "Always hide comment form when canceled?"
+msgstr "Selalu sembunyikan formulir komentar ketika dibatalkan?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/inlinecommentform.php:403
+msgid "Normally, the comment form is never hidden on single post pages, and is only moved back to its original location. This option will force the comment to hide when the comment form is canceled rather than moving. "
+msgstr "Secara normal, formulir komentar tidak pernah disembunyikan pada halaman tulisan tunggal, dan hanya dipindahkan kembali ke lokasi semula. Opsi ini akan memaksa komentar disembunyikan ketika formulir komentar dibatalkan, bukan dipindahkan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/inlinecommentform.php:406
+msgid "Do not move comment form to links."
+msgstr "Jangan memindahkan formulir komentar pada taut."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/inlinecommentform.php:407
+msgid "Normally, the comment form is moved directly after the link that calls it. Selecting this option will never move the form."
+msgstr "Secara normal, formulir komentar dipindahkan secara langsung setelah taut memanggilnya. Memilih opsi ini tidak akan memindahkan formulir."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/inlinecommentform.php:412
+msgid "If the following options are selected then on all single posts the add comment box will already be open when the page loads, so users do not have to look for it. It still can be hidden and moved."
+msgstr "Jika opsi di bawah ini dipilih paka semua tulisan tunggal kotak penambahakan komentar akan dibuka dengan halaman termuat, jadi pemakai tidak harus mencarinya. Ia dapa juga disembunyikan atau dipindahkan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/inlinecommentform.php:413
+msgid "Have Add Comment Box open by default on single post pages?"
+msgstr "Kotak Penambahakan Komentar dibuka secara bawaan pada halaman tulisan tunggal?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/inlinecommentform.php:414
+msgid "Have Add Comment Box open by default on pages?"
+msgstr "Kotak Penambahan Komentar dibuka secara bawaan pada halaman?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/inlinecommentform.php:415
+msgid "Have Add Comment Box open by default on index page?"
+msgstr "Kotak Penambahan Komentar dibuka secara bawaan pada halaman indeks?"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/templates/commentform.php:7
+msgid "This post is password protected. Enter the password to comment."
+msgstr "Tulisan ini diproteksi dengan kata kunci. Masukkan kata kunci untuk mengomentari."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/templates/commentform.php:16
+msgid "Login"
+msgstr "Masuk"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/templates/commentform.php:18
+msgid "Register"
+msgstr "Daftar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/templates/commentform.php:20
+#, php-format
+msgid "Sorry, you must %s to post a comment."
+msgstr "Maaf, anda harus %s untuk menambahkan komentar."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/templates/commentform.php:56
+msgid "Leave a reply"
+msgstr "Tinggalkan balasan"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/templates/commentform.php:75
+#, php-format
+msgid "Logged in as <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>"
+msgstr "Masuk sebagai <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/templates/commentform.php:80
+msgid "Name"
+msgstr "Nama"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/templates/commentform.php:80
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/templates/commentform.php:83
+msgid "(required)"
+msgstr "(dibutuhkan)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/templates/commentform.php:83
+msgid "Mail"
+msgstr "Alamat Email"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/templates/commentform.php:83
+msgid "(will not be published)"
+msgstr "(tidak akan dipublikasikan)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/templates/commentform.php:86
+msgid "Website"
+msgstr "Situs"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/templates/commentform.php:95
+msgid "Comment"
+msgstr "Komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/inlinecommentform/templates/commentform.php:110
+msgid "Submit Comment"
+msgstr "Kirim Komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:106
+msgid "Please hit back on your browser and try again."
+msgstr "Harap tekan tombol kembali pada peramban dan coba lagi."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:106
+msgid "You may want to copy your comment to ensure it is saved."
+msgstr "Anda ingin menyalin komentar anda untuk memastikan bahwa ia tersimpan."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:109
+#, php-format
+msgid "ReCaptcha was incorrect. Please try again. %s"
+msgstr "ReCaptcha tidak benar. Mohon dicoba kembali: %s"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:131
+msgid "AJAXed WordPress reCAPTCHA"
+msgstr "reCAPTCHA WordPress ter-AJAX"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:132
+msgid "reCAPTCHA Module."
+msgstr "Modul reCAPTCHA"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:133
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:211
+msgid "reCAPTCHA asks commenters to read two words from a book. One of these words proves that they are a human, not a computer. The other word is a word that a computer could not read. Because the user is known to be a human, the reading of that word is probably correct. So you do not get comment spam, and the world gets books digitized. Everybody wins! For details, visit the <a href=\"http://recaptcha.net/\">reCAPTCHA website</a>."
+msgstr "reCAPTCHA menanyakan komentator dua kata dalam sebuah buku. Salah satu dari kata ini membuktikan bahwa mereka seorang manusia, bukan komputer. Kata lain adalah kata yang tidak dapat dibaca komputer. Karena pemakai diketahui adalah manusia, pembacaan kata mungkin benar. Jadi anda tidak menerima komentar spam, dan dunia memiliki digitalisasi buku. Semua orang menang! Untuk detail, kunjungi <a href=\"http://recaptcha.net/\">situs reCAPTCHA</a>."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:135
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:221
+#, php-format
+msgid "reCAPTCHA requires an API key, consisting of a \"public\" and a \"private\" key. You can sign up for a free API key for %s ."
+msgstr "reCAPTCHA memerlukan kunci API, yang berisi sebuah kunci \"publik\" dan \"pribadi\". Anda dapat mendaftar sebuah kunci API untuk %s."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:135
+msgid "This key is stored separate from other aWP options, and uses the same administration panel as the main WordPress reCAPTCHA plugin under the options menu."
+msgstr "Kunci ini disimpan secara terpisah dari opsi AWP lain, dan memakai panel administrasi yang sama dengan plugin reCAPTCHA Wordpress yang utama di bawah menu opsi."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:137
+msgid "Form Color"
+msgstr "Warna Formulir"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:138
+msgid "Clean"
+msgstr "Bersih"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:139
+msgid "Red"
+msgstr "Merah"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:140
+msgid "White"
+msgstr "Putih"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:141
+msgid "Black Glass"
+msgstr "Gelas Hitam"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:144
+msgid "Form Language"
+msgstr "Bahasa Formulir"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:210
+msgid "reCAPTCHA Options"
+msgstr "Opsi reCAPTCHA"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:218
+msgid "reCAPTCHA Key"
+msgstr "Kunci reCAPTCHA"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:223
+msgid "Public Key"
+msgstr "Kunci Publik"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:226
+msgid "Private Key"
+msgstr "Kunci Pribadi"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/recaptcha/recaptcha.php:234
+msgid "Update Options"
+msgstr "Perbaharui Opsi"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/livepreview/livepreview.php:59
+msgid "You will post the following soon."
+msgstr "Anda akan mempublikasikan ini segera."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/livepreview/livepreview.php:62
+msgid "Go ahead and start typing."
+msgstr "Ayo mulai mengetik."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/livepreview/livepreview.php:155
+msgid "Live Preview Options"
+msgstr "Opsi Peninjau Langsung"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/livepreview/livepreview.php:156
+msgid "Live Preview"
+msgstr "Peninjau Langsung"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/livepreview/livepreview.php:158
+msgid "Do not show any html in the live preview. Kinda defeats the purpose of the live preview."
+msgstr "Jangan menunjukkan html apapun di dalam peninjau langsung. Sepertinya menghilangkan tujuan dari peninjau langsung."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/livepreview/livepreview.php:160
+#, php-format
+msgid "Do not display the following tags %s Use just the tag names separated with spaces. (form table input strong etc.)"
+msgstr "Jangan menampilkan tag di bawah ini %s Hanya pakai nama tag yang dipisahkan dengan spasi. (form table input strong dan sebagainya.)"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/livepreview/livepreview.php:166
+msgid "By default AWP styles the preview as if it were a comment"
+msgstr "Secara bawaan AWP menggayakan peninjau seolah-olah ia adalah komentar"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/livepreview/livepreview.php:168
+msgid "Do not style live preview as comment."
+msgstr "Jangan menggayakan peninjau langsung sebagai komentar."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/livepreview/livepreview.php:169
+#, php-format
+msgid "Text or XHTML before live comment preview. %s You may use XHTML code or text. Example: &amp;lt;p>You say:&amp;lt;/p>"
+msgstr "Teks atau XHTML sebelum peninjau komentar langsung. %s Anda mungkin mempergunakan kode atau teks XHTML. Contoh: &amp;lt;p>You say:&amp;lt;/p>"
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/livepreview/livepreview.php:170
+#, php-format
+msgid "Text or XHTML after live comment preview. %s You may use XHTML code or text."
+msgstr "Teks atau XHTML setelah peninjau komentar langsung. %s Anda mungkin menggunakan kode atau teks XHTML."
+
+#: /share/www/trunk/wp-content/plugins/ajaxd-wordpress/modules/livepreview/livepreview.php:187
+msgid "Automatically convert smilies to images? (May cause a small amount of lag for fast typers)"
+msgstr "Secara otomatis mengkonversi smilies ke gambar? (Mungkin mengakibatkan jedaan singkat untuk pengetik cepat)"
+

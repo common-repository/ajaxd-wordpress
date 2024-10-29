@@ -1,0 +1,2009 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AWP\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/ajaxd-wordpress\n"
+"POT-Creation-Date: 2009-04-22 14:55+0000\n"
+"PO-Revision-Date: 2009-04-22 11:37-0500\n"
+"Last-Translator: Aaron Harun <admin@anthologyoi.com>\n"
+"Language-Team: eXa <c00lzero05@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: D:\\Top site\\ajaxd-wordpress\\translations\n"
+"X-Poedit-SearchPath-0: D:\\Top site\\ajaxd-wordpress\\translations\n"
+
+#: aWP-response.php:40
+msgid "Invalid ID."
+msgstr "ID invalide"
+
+#: aWP.php:472
+msgid "Uncategorized"
+msgstr "Pas de catégorie"
+
+#: aWP.php:499
+#, fuzzy
+msgid "AJAXed WordPress"
+msgstr "reCAPTCHA d'AJAXed WordPress"
+
+#: aWP.php:522
+#: modules/inlinecommentform/inlinecommentform.php:295
+#: modules/inlinecommentform/inlinecommentform.php:460
+#: modules/threaded_comments.php:290
+msgid "Add a Comment"
+msgstr "Ajouter un commentaire"
+
+#: aWP.php:523
+#: aWP.php:525
+#: modules/inlinecommentform/inlinecommentform.php:296
+#: modules/inlinecommentform/inlinecommentform.php:461
+#: modules/threaded_comments.php:291
+msgid "Cancel reply"
+msgstr "Annuler la réponse"
+
+#: aWP.php:524
+msgid "Reply to %author"
+msgstr "Répondre a %autor"
+
+#: aWP.php:532
+#: modules/inlinecomments/inlinecomments.php:165
+#: modules/inlinecomments/inlinecomments.php:472
+msgid "Comments are closed"
+msgstr "Commentaires fermés"
+
+#: aWP.php:533
+#: modules/inlinecomments/inlinecomments.php:154
+#: modules/inlinecomments/inlinecomments.php:473
+msgid "No Comments"
+msgstr "Pas de commentaires"
+
+#: aWP.php:534
+#: modules/inlinecomments/inlinecomments.php:474
+msgid "Show Comments"
+msgstr "Montrer les Commentaires"
+
+#: aWP.php:535
+#: modules/inlinecomments/inlinecomments.php:475
+msgid "Hide Comments"
+msgstr "Cacher les commentaires"
+
+#: aWP.php:542
+#: modules/inlineposts.php:764
+msgid "Click to continue reading \"%title\""
+msgstr "Cliquez pour continuer a lire \"%title\""
+
+#: aWP.php:543
+#: modules/inlineposts.php:765
+msgid "Hide \"%title\""
+msgstr "Cacher  \"%title\""
+
+#: aWP.php:544
+msgid "Go straight to Post"
+msgstr "Aller directement à l'article"
+
+#: aWP.php:548
+msgid "a comment"
+msgstr "un commentaire"
+
+#: aWP.php:549
+#, php-format
+msgid "% comments"
+msgstr "% commentaires"
+
+#: control/aWP-admin.php:72
+msgid "Invalid module."
+msgstr "Module invalide."
+
+#: control/aWP-admin.php:74
+msgid "Plugin file does not exist."
+msgstr "Le fichier du plugin n'existe pas."
+
+#: control/aWP-admin.php:187
+msgid "More Information"
+msgstr "Plus d'information"
+
+#: control/aWP-admin.php:519
+msgid "Visit plugin homepage"
+msgstr "Visiter le site du plugin"
+
+#: control/aWP-admin.php:525
+msgid "Visit author homepage"
+msgstr "Aller sur le site de l'auteur"
+
+#: control/aWP-admin.php:538
+msgid "Module"
+msgstr "Module"
+
+#: control/aWP-admin.php:539
+msgid "Module Version"
+msgstr "Version du Module"
+
+#: control/aWP-admin.php:540
+msgid "AWP Version"
+msgstr "Version d'AWP"
+
+#: control/aWP-admin.php:541
+msgid "Description"
+msgstr "Description"
+
+#: control/aWP-admin.php:543
+msgid "Status"
+msgstr "Status"
+
+#: control/aWP-admin.php:544
+msgid "Action"
+msgstr "Action"
+
+#: control/aWP-admin.php:556
+msgid "Deactivate this AWP Module"
+msgstr "Désactiver ce Module AWP"
+
+#: control/aWP-admin.php:556
+msgid "Deactivate"
+msgstr "Desactiver"
+
+#: control/aWP-admin.php:559
+msgid "Active"
+msgstr "Activer"
+
+#: control/aWP-admin.php:561
+msgid "Activate this module"
+msgstr "Activer ce module"
+
+#: control/aWP-admin.php:561
+msgid "Activate"
+msgstr "Activer"
+
+#: control/aWP-admin.php:562
+msgid "Inactive"
+msgstr "Inactif"
+
+#: control/aWP-admin.php:583
+#, php-format
+msgid "By %s"
+msgstr "De %s"
+
+#: control/aWP-admin.php:607
+msgid "Remove these messages."
+msgstr "Supprimer ces messages."
+
+#: control/aWP-admin.php:612
+msgid "AWP options updated."
+msgstr "Options d'AWP mises a jour."
+
+#: control/aWP-admin.php:615
+msgid "Module Activated Successfully."
+msgstr "Module bien Activé."
+
+#: control/aWP-admin.php:618
+msgid "Module Deactivated Successfully."
+msgstr "Module bien désactivé."
+
+#: control/aWP-admin.php:621
+msgid "The module you attempted to activate has an error in it and could not be activated."
+msgstr "Le module que vous essayez d'activer a une erreur et ne peut donc pas être activé."
+
+#: control/aWP-admin.php:624
+msgid "AWP settings restored to defaults."
+msgstr "Options de AWP restorées à celles de base."
+
+#: control/aWP-admin.php:627
+msgid "Options successfully saved as test options. Please review them for consistancy before saving."
+msgstr "Les options on bien étées sauvegardées comme options de test. Veuillez vérifier si ils sont cohérents avant de sauvegarder."
+
+#: control/aWP-admin.php:630
+msgid "AWP test options updated. These settings will not go live until you save them."
+msgstr "Les options de test de AWP on étées mises a jour. Ces parmètres ne seront pas utilisé jusqu'a ce que vous les sauvegardiez."
+
+#: control/aWP-admin.php:633
+msgid "AWP test options deleted."
+msgstr "Les options de test d'AWP on étés supprimées."
+
+#: control/aWP-admin.php:638
+msgid "This version of Wordpress is outdated and not supported by this plugin. Please upgrade to the latest version from"
+msgstr ""
+
+#: control/aWP-admin.php:646
+msgid "You are using the test options currently. You must save them as live options or delete them to see the current live options."
+msgstr ""
+
+#: control/aWP-admin.php:646
+msgid "To view these settings append ?awp=test to any URL in your blog or click the follwing link to view your homepage>"
+msgstr ""
+
+#: control/aWP-admin.php:687
+#: control/aWP-admin_panel.php:19
+#: control/aWP-admin_panel.php:50
+msgid "Overall Options"
+msgstr "Options Générales"
+
+#: control/aWP-admin.php:689
+msgid "All options on this control the overall options for the plugin, and options that are used by multiple modules."
+msgstr "Toutes les options présentes, sont les options générales du plugin et ce sont des options utilisées pas plusieurs modules."
+
+#: control/aWP-admin.php:693
+msgid "You may customize the texts for %count here. A % will be replaced with the number of comments. Example: A show text of \"Show %count inline\" and a \"some comments\" text of \"% comments\" on a post with 5 comments will be displayed as \"Show 5 comments inline.\""
+msgstr ""
+
+#: control/aWP-admin.php:695
+#, php-format
+msgid "One Comment Text: %s"
+msgstr "Texte d'un commentaire: %s"
+
+#: control/aWP-admin.php:696
+#, php-format
+msgid "Some Comments: %s"
+msgstr "Quelques commentaires: %s"
+
+#: control/aWP-admin.php:697
+#, php-format
+msgid "Zero Comments: %s"
+msgstr "Aucun Commentaire: %s"
+
+#: control/aWP-admin.php:702
+msgid "By default, all template files reside in the aWP module's folder; however, if you customise them, these changes are overwritten when you upgrade. The following options allow you to move all template files into other directories, so the files are not overwritten during upgrades."
+msgstr ""
+
+#: control/aWP-admin.php:703
+msgid "In the following options, the extended information uses %something% to designate the name of files. These are based on the theme, module, or file you are currently using. The module name is the same as its folder name. If the specified file is not found, the plugin defaults to the default template. If this occurs, ensure you have created the directory structure properly."
+msgstr ""
+
+#: control/aWP-admin.php:705
+msgid "All module template files are in their default location."
+msgstr "Tous les modules de modèle se trouvent dans leur emplacement par défaut."
+
+#: control/aWP-admin.php:706
+msgid "This option should be selected if you have not modified the templates, and these files may be overwritten when uploading later versions."
+msgstr ""
+
+#: control/aWP-admin.php:710
+msgid "Some or all templates are in my current WordPress theme's folder."
+msgstr "Certains ou tous les modèles sont dans mon dossier de themes WordPress."
+
+#: control/aWP-admin.php:711
+msgid "All customized templates should be in a folder in your wordpress theme.<br />The files should be in the following structure: <br />%theme_directory%/aWP/%module_name%/%template_file%.php"
+msgstr ""
+
+#: control/aWP-admin.php:715
+msgid "Some or all templates are in a directory in my plugins directory."
+msgstr "Certains ou tous les modèles ce trouvent dans un répertoire du répertoire de plugins."
+
+#: control/aWP-admin.php:716
+msgid "All customized templates should be in a folder in your wordpress plugins directory.<br />The files should be in the following structure: <br />plugins/aWP-templates/%module_name%/%template_file%.php"
+msgstr "Tous les modèles customisés doivent être dans un dossier dans le répertoire de plugins wordpress.<br />Les fichiers doivent avoir la structure suivante: <br />plugins/aWP-templates/%module_name%/%template_file%.php"
+
+#: control/aWP-admin.php:721
+msgid "Why be like everyone else? Pick your own Throbber."
+msgstr "Pourquoi être comme les tous autres? Choisissez votre propre Throbber (icone de chargement)."
+
+#: control/aWP-admin.php:744
+msgid "Force AJAXed WordPress to use the following language."
+msgstr ""
+
+#: control/aWP-admin.php:745
+#, php-format
+msgid "Override the default WordPress Language with: %s"
+msgstr ""
+
+#: control/aWP-admin.php:746
+#: control/aWP-ajax.php:292
+#: control/aWP-ajax.php:309
+#: control/aWP-ajax.php:320
+#: control/aWP-ajax.php:334
+#: control/aWP-ajax.php:351
+#: control/aWP-ajax.php:359
+msgid "None"
+msgstr "Aucun"
+
+#: control/aWP-admin.php:747
+msgid "Spanish (es_ES)"
+msgstr ""
+
+#: control/aWP-admin.php:748
+msgid "French (fr)"
+msgstr ""
+
+#: control/aWP-admin.php:749
+msgid "Italian (it_IT)"
+msgstr ""
+
+#: control/aWP-admin.php:750
+msgid "Japanese (ja)"
+msgstr ""
+
+#: control/aWP-admin.php:755
+msgid "When content is loaded inline what should aWP do?"
+msgstr "Quand le contenu est chargé \"inline\" que doit faire AWP?"
+
+#: control/aWP-admin.php:757
+msgid "There should be a smooth scrolling effect that slowly brings the user to the new content."
+msgstr "Il devrait y avoir un effet de défilment doux qui montre doucement le nouveau contenu à l'utilisateur."
+
+#: control/aWP-admin.php:760
+msgid "Attempt to focus immediately on the new content."
+msgstr "Essai de se focaliser directement sur le contenu le plus récent."
+
+#: control/aWP-admin.php:763
+msgid "No scrolling of any kind. Let the user find the new content on their own."
+msgstr "Aucun défilement. Laisse l'utilisateur trouver le nouveau contenu par eux même."
+
+#: control/aWP-admin.php:768
+msgid "Do not load default CSS."
+msgstr "Ne pas charger le CSS par défaut."
+
+#: control/aWP-admin.php:769
+msgid "AWP loads some default structural CSS. This will disable it, but it will not disable the required CSS."
+msgstr ""
+
+#: control/aWP-admin.php:772
+msgid "Load JavaScript in the blog footer."
+msgstr ""
+
+#: control/aWP-admin.php:776
+#, fuzzy
+msgid "AJAXed WordPress News"
+msgstr "reCAPTCHA d'AJAXed WordPress"
+
+#: control/aWP-admin.php:778
+msgid "Disable all news announcements?"
+msgstr ""
+
+#: control/aWP-admin.php:781
+msgid "Disable news announcments of donations?"
+msgstr ""
+
+#: control/aWP-admin.php:786
+msgid "Append a small link to aWP to blog footer."
+msgstr "Mettre un petit lien vers awp au pied de page du blog."
+
+#: control/aWP-admin.php:787
+msgid "Please consider leaving this option checked to append a small \"AJAXed with AWP\" link in the footer of your blog's front page. This helps promote the plugin."
+msgstr ""
+
+# Traduction ?? J'en connait pas
+#: control/aWP-admin.php:787
+msgid "(As of version 1.19, this is no longer a site-wide link.)"
+msgstr "(À partir de la version 1.19, ce n'est plus un lien \"site-wide\")."
+
+#: control/aWP-admin_panel.php:14
+msgid "Edit AJAXed Wordpress Configuration"
+msgstr "Editer la Configuration de AJAXed Wordpress"
+
+#: control/aWP-admin_panel.php:17
+#: control/aWP-admin_panel.php:48
+msgid "Admin"
+msgstr "Admin"
+
+#: control/aWP-admin_panel.php:18
+#: control/aWP-admin_panel.php:49
+#: control/aWP-admin_panel.php:87
+msgid "Modules"
+msgstr "Modules"
+
+#: control/aWP-admin_panel.php:20
+#: control/aWP-admin_panel.php:51
+msgid "Posts &amp; Pages"
+msgstr "Posts &amp; Pages"
+
+#: control/aWP-admin_panel.php:21
+#: control/aWP-admin_panel.php:52
+msgid "Comments"
+msgstr "Commentaires"
+
+#: control/aWP-admin_panel.php:22
+#: control/aWP-admin_panel.php:53
+msgid "Comment Form"
+msgstr "Formulaire de Commentaire"
+
+#: control/aWP-admin_panel.php:23
+msgid "Integrations"
+msgstr "Integrations"
+
+#: control/aWP-admin_panel.php:24
+#: control/aWP-admin_panel.php:54
+msgid "AJAX &amp; Effects"
+msgstr "Effets AJAX &amp; "
+
+#: control/aWP-admin_panel.php:25
+#: control/aWP-admin_panel.php:55
+msgid "Other"
+msgstr "Autres"
+
+#: control/aWP-admin_panel.php:36
+msgid "Welcome to the AJAXed WordPress Dashboard."
+msgstr "Bienvenue sur le Tableau de Bord de AJAXed WordPress."
+
+#: control/aWP-admin_panel.php:42
+msgid "This is a quick over-view of AJAXed WordPress (AWP)."
+msgstr "Ceci est une une présentatin rapide de AJAXed WordPress (AWP)."
+
+#: control/aWP-admin_panel.php:42
+msgid "In the future, I plan to integrate tools that will make AWP even more useful"
+msgstr "Je compte ajouter des outils qui rendront AWP encore plus utile"
+
+#: control/aWP-admin_panel.php:45
+msgid "To add, change or update AWP options, you may use the nav bar above to select between the different screens. Some screens may be empty, but this does not mean anything is wrong."
+msgstr "Pour ajouter, changer ou mettre a jour le options AWP, utilisez la barre de navigation ci-dessus pour choisir un des differents écrans. Certains de ces écrans peuvent être vides, mais ça ne veut pas dire qu'il y a un problème."
+
+#: control/aWP-admin_panel.php:45
+msgid "Screens are only hidden, so you only need to save the options when you are completely finished."
+msgstr "Les écrans sont seulment cachés, donc vous avez seulment besoin de sauvegarder quand vous avez tout terminé."
+
+#: control/aWP-admin_panel.php:48
+msgid "This is the Admin screen, and it is the \"dashboard\" for AJAXed WordPress."
+msgstr "Vous ètes sur l'écran d'Admin, et c'est le \"tableau de bord\"  pour AWP."
+
+#: control/aWP-admin_panel.php:49
+msgid "This is similar to the plugins page in WordPress. Most features must first be enabled or disabled here."
+msgstr "Ceci est similaire à la page d'extensions sur WordPress. La pluspart des fonction doivent être premièrement activées ou désactivées ici."
+
+#: control/aWP-admin_panel.php:50
+msgid "These are options built into the core itself and that are used by all or most modules. For example, the throbber you use."
+msgstr ""
+
+#: control/aWP-admin_panel.php:51
+msgid "These options control the way AWP displays posts or pages including feature such as inline or embedded posts. Any modules that modify posts or pages use this screen."
+msgstr ""
+
+#: control/aWP-admin_panel.php:52
+msgid "The options on this screen control the way AWP displays comments and controls features such as threaded comments. Any modules that modify the way comments are displayed will use this screen."
+msgstr ""
+
+#: control/aWP-admin_panel.php:53
+msgid "This screen holds the options and controls the form that allows the user to submit comments. Any modules that modify the comment form will use this screen."
+msgstr ""
+
+#: control/aWP-admin_panel.php:54
+msgid "This is primarily used by the AWP Core (not modules), and allows you to select from a variety of effects and JavaScript libraries. "
+msgstr ""
+
+#: control/aWP-admin_panel.php:55
+msgid "This page is used for modules that don't fit in with the other categories."
+msgstr "Cette page est utilisée pour des modules qui ne vont pas pour les autres catégories."
+
+#: control/aWP-admin_panel.php:58
+msgid "Some common queries:"
+msgstr "Quelques requètes habituelles:"
+
+#: control/aWP-admin_panel.php:61
+msgid "I activated the plugin and nothing is happening. How do I get it working?"
+msgstr "J'ai activé ce plugin et il c'est rien passé. Comment le faire marcher?"
+
+#: control/aWP-admin_panel.php:63
+msgid "It depends what features you want to have. When you first start the plugin the only feature that is active is your posts are split on the more tag."
+msgstr ""
+
+#: control/aWP-admin_panel.php:65
+msgid "If you want comments and the comment form on the front page, for example, you will have to make a few theme edits as described <a href=\"http://ajaxedwp.com/go/readme\">in the readme</a>, or if you want inline posts, you will have to set a method to \"split\" them and a length in the aWP administration panel under the posts tab."
+msgstr ""
+
+#: control/aWP-admin_panel.php:67
+msgid "When will AWP be translated?"
+msgstr "Quand AWP sera traduit?"
+
+#: control/aWP-admin_panel.php:69
+msgid "When there is someone who is willing to translate it. Could it be you?"
+msgstr "Quand est-ce que quelqu'un traduira AWP. Serais-ce vous ?"
+
+#: control/aWP-admin_panel.php:71
+msgid "Why do the AWP comments look so bad on my theme?"
+msgstr "Pourquoi les commentaires d'AWP on l'air si moches sur mon thème?"
+
+#: control/aWP-admin_panel.php:73
+msgid "AWP uses a very generic template by default. On some themes it fits in perfectly, some not so good and some it is flat out ugly. However, it is easy to update the styling, and you can also get help in the support forum."
+msgstr "AWP utilise par défaut un modèle trés générique. Sur certains themes il est parfait, sur d'autres pas aussi bien et même des fois trés moche. Cependant, c'est trés simple à modifier, et vous pouvez aussi avoir de l'aide sur le forum de support."
+
+#: control/aWP-admin_panel.php:78
+msgid "I hope that this was helpful to you. Enjoy using AJAXed WordPress."
+msgstr "J'espère que cela vous a été utile. En esperant que AJAXed WordPress vous plaise."
+
+#: control/aWP-admin_panel.php:89
+msgid "AJAXed Wordpress is made up of many smaller plugins called modules."
+msgstr ""
+
+#: control/aWP-admin_panel.php:89
+msgid "You may disable or enable modules here."
+msgstr "You pouvez activez ou désactiver les modules ici."
+
+#: control/aWP-admin_panel.php:89
+msgid "Some modules may need to have some of their features explicitly enabled after activation."
+msgstr "Certains modules peuvent avoir besoin que l'on active explicitement leurs fonctions, après avoir étés activés."
+
+#: control/aWP-admin_panel.php:120
+msgid "If this block is empty it is not an error. It just doesn't have anything to display."
+msgstr "Si ce block est vide ce n'est pas une erreur. Il n'a juste rien à montrer."
+
+#: control/aWP-admin_panel.php:134
+msgid "Options for testing this configuration."
+msgstr "Options pour tester cette configuration."
+
+#: control/aWP-admin_panel.php:136
+msgid "Save these settings as a test."
+msgstr "Sauvegarder ces options pour un test."
+
+#: control/aWP-admin_panel.php:136
+msgid "The settings will not be publicily visible, and you will not be able to edit the actual blog settings until they are deleted or saved."
+msgstr ""
+
+#: control/aWP-admin_panel.php:137
+msgid "Delete test settings."
+msgstr "Supprimer les options de test."
+
+#: control/aWP-admin_panel.php:137
+msgid "(This reverts the admin panel settings back to the live settings.)"
+msgstr "(Ceci "
+
+#: control/aWP-admin_panel.php:138
+msgid "Save these settings normally."
+msgstr "Sauvegarder ces options normalement."
+
+#: control/aWP-admin_panel.php:142
+msgid "Save"
+msgstr "Sauver"
+
+#: control/aWP-admin_panel.php:151
+msgid "Plugin Info:"
+msgstr "Informations de Plugin:"
+
+#: control/aWP-admin_panel.php:153
+msgid "AWP Homepage"
+msgstr "Pasge d'acceuille de AWP"
+
+#: control/aWP-admin_panel.php:154
+msgid "AWP Changelog"
+msgstr "Modifications AWP"
+
+#: control/aWP-admin_panel.php:155
+msgid "AWP Readme"
+msgstr "Lisez moi de AWP"
+
+#: control/aWP-admin_panel.php:156
+msgid "AWP Theme Support"
+msgstr "Support  pour les themes AWP"
+
+#: control/aWP-admin_panel.php:157
+#, fuzzy
+msgid "Support"
+msgstr "Forum de Support"
+
+#: control/aWP-admin_panel.php:158
+msgid "Support Forum"
+msgstr "Forum de Support"
+
+#: control/aWP-admin_panel.php:159
+msgid "Author Homepage"
+msgstr "Site de l'auteur"
+
+#: control/aWP-admin_panel.php:160
+msgid "Donate"
+msgstr "Faire une donation"
+
+#: control/aWP-admin_panel.php:165
+msgid "Utilities:"
+msgstr "Outils:"
+
+#: control/aWP-admin_panel.php:166
+msgid "Show all current saved AWP options"
+msgstr "Montrer toutes les options actuelles de AWP"
+
+#: control/aWP-admin_panel.php:174
+msgid "The following are your current AWP <em>TEST</em> options:"
+msgstr ""
+
+#: control/aWP-admin_panel.php:185
+msgid "The following are your current AWP <em>SAVED</em> options:"
+msgstr "Ce sont vos options actuellement <em>SAUVEGARDEES</em>  d' AWP:"
+
+#: control/aWP-admin_panel.php:200
+msgid "Restore options from a backup."
+msgstr "Restorer les options pour une sauvegarde"
+
+#: control/aWP-admin_panel.php:202
+msgid "(These options will be stored as test options, so you may review them.)"
+msgstr "(Ces options seront enregistrées en tant qu'options de test, donc vous devriez les vérifierr.)"
+
+#: control/aWP-admin_panel.php:209
+msgid "Restore Options"
+msgstr "Restorer les options"
+
+#: control/aWP-admin_panel.php:214
+msgid "Reset to default settings"
+msgstr "Restaurer aux options par défaut"
+
+#: control/aWP-admin_panel.php:218
+msgid "Confirm Reset?"
+msgstr "Confirmer la remise a zero?"
+
+#: control/aWP-admin_panel.php:219
+msgid "Reset Settings"
+msgstr "Remise a zero des Options"
+
+#: control/aWP-admin_panel.php:228
+#, php-format
+msgid "Dear %s,"
+msgstr "Cher %s,"
+
+#: control/aWP-admin_panel.php:230
+msgid "Have you found aWP useful? "
+msgstr ""
+
+#: control/aWP-admin_panel.php:232
+msgid "If so, please consider making a small donation. Most people donate anywhere from $5 - $100, and all donations, <strong>even the small ones</strong>, help to defray my costs and support continued development. (Besides, all donators get a link on the main aWP page and its daily 200 - 500 unique visitors.)"
+msgstr "Si oui, veuillez s'il vous plaît faire une petite donation. La plus-part des personnes font des donations de $5 a $100, et toutes les donations, <strong>même les plus petites</strong>, aident à réduire les coûts et supportent le développement. (De plus, tous les doneurs on leur lien sur la page principale de AWP et c'est 200 - 500 visiteurs differents par jour.)"
+
+#: control/aWP-admin_panel.php:235
+msgid "If you can't donate, please at least consider leaving the small footer link enabled."
+msgstr "Si vous ne pouvez pas faire de donation, s'il vous plaît veuillez alors laisser le lien dans le pied de page."
+
+#: control/aWP-ajax.php:254
+msgid "AJAX Options"
+msgstr "Options AJAX"
+
+#: control/aWP-ajax.php:256
+msgid "What Javascript Library do you want to use?"
+msgstr "Quelle Librairie Javascript voulez vous utiliser ?"
+
+#: control/aWP-ajax.php:258
+msgid "Use TWSack Library"
+msgstr "Utiliser la librairie TWSack"
+
+#: control/aWP-ajax.php:259
+msgid "This library is only 5KB and is the default."
+msgstr "Cette librairie fait que 5KB et est celle par défaut"
+
+#: control/aWP-ajax.php:262
+msgid "Use JQuery"
+msgstr "Utiliser JQuery"
+
+#: control/aWP-ajax.php:263
+msgid "(This library is 19KB, includes effects, and is the prefered \"advanced\" library.)"
+msgstr "(Cette librairie fait 19KB,inclus des effets, et c'est la librairie  \"advanced\".)"
+
+#: control/aWP-ajax.php:266
+msgid "Use MooTools"
+msgstr "Utiliser MooTools"
+
+#: control/aWP-ajax.php:267
+msgid "(This library is 25KB, includes no effects by default.)"
+msgstr "(Cette librairie fait 25KB, et n'inclus aucun effet par défaut.)"
+
+#: control/aWP-ajax.php:270
+msgid "Use Prototype.js"
+msgstr "Utiliser Prototype.js"
+
+#: control/aWP-ajax.php:271
+msgid "(This library is 55KB, is not suggested, and uses Scriptaculous for effects )"
+msgstr "(Cette librairie fait 55KB, elle n'est pas recommandée, elle utilise Scriptaculous pour les effets\".)"
+
+#: control/aWP-ajax.php:275
+#, fuzzy
+msgid "Advanced AJAX Options"
+msgstr "Options AJAX"
+
+#: control/aWP-ajax.php:275
+#, fuzzy
+msgid "Use the following at your own risk."
+msgstr "Utiliser la méthode suivant pour créer des extraits ou pages."
+
+#: control/aWP-ajax.php:277
+msgid "Use the JS library selected above, but DO NOT load it."
+msgstr ""
+
+#: control/aWP-ajax.php:284
+msgid "Special Effect Options"
+msgstr "Options des Effets Spéciaux"
+
+#: control/aWP-ajax.php:285
+msgid "Special Effects"
+msgstr "Effets Spéciaux"
+
+#: control/aWP-ajax.php:286
+msgid "Would you like special effects? Without them there is an abrupt transition when new content is loaded."
+msgstr "Voulez-vous des effets spéciaux? Sans eux il y a un transition abrupte quand un nouveau contenu est chargé."
+
+#: control/aWP-ajax.php:288
+msgid "The following effects are built into the plugin. There is no other way to have effects on posts. These effects will add no extra javascript to your webpage."
+msgstr "Les effets suivants sont integrés au plugin. Il n'y à pas d'autre moyen d'avoir des effets sur les articles. Ces effets n'ajouterons pas du javascript en plus à votre site."
+
+#: control/aWP-ajax.php:290
+msgid "Which built in Post effect do you want?"
+msgstr "Quel effet voulez vous pour les articles?"
+
+# J'ai mis glisser mais je pense qu'il y a une meilleur traduction si quelqu'un la trouve ^^
+#: control/aWP-ajax.php:291
+#: control/aWP-ajax.php:308
+msgid "Slide Up scrolls the container up and down, Scroll Left pushes all of the text to the left and pulls it back to the right, Expand stretches and shrinks the text (not the container) horizontally and also vertically (if no child element has a set line height)"
+msgstr "\"Glisser Haut\"  fait se déplacer le contenu vers le haut et vers le bas, \"Glisser Gauche\" pousse tout le texte vers la gauche puis le fait revenir a droite, \"Elargir\"  étend et rétrecit le texte (pas le conteneur/cadre) horizontalement et verticalement ( si aucun élément enfant a une taille définie)"
+
+#: control/aWP-ajax.php:293
+#: control/aWP-ajax.php:310
+msgid "Expand"
+msgstr "Elargir"
+
+#: control/aWP-ajax.php:294
+#: control/aWP-ajax.php:311
+#: control/aWP-ajax.php:335
+#: control/aWP-ajax.php:336
+#: control/aWP-ajax.php:337
+#: control/aWP-ajax.php:360
+msgid "Slide Up"
+msgstr "Glisser vers le haut"
+
+#: control/aWP-ajax.php:295
+#: control/aWP-ajax.php:312
+msgid "Fade"
+msgstr "Fondu"
+
+#: control/aWP-ajax.php:296
+#: control/aWP-ajax.php:313
+msgid "Scroll Left"
+msgstr "Défilement gauche"
+
+#: control/aWP-ajax.php:299
+msgid "What is the background color of your posts?"
+msgstr "Quelle est la couleure du fond de vos articles?"
+
+#: control/aWP-ajax.php:300
+msgid "In hex format (#FFFFFF) Due to a bug in IE you must set a background color for your posts if you want to use the fade effect. This only needs to be set if your post backgrounds are not white."
+msgstr "Au format hex (#FFFFFF) A cause d'un bug de IE vous devez choisir une couleur de fond pour vos articles si vous voulez utiliser l'effet de fondu. Ceci à seulment besoin d'être spécifié si les fonds de vos articles ne sont pas blancs."
+
+#: control/aWP-ajax.php:305
+msgid "The following effect will be used for showing and hiding the comment form, comments and all show/hide combinations except for posts. This option is overruled by setting a library-specific effect below."
+msgstr "L'effet suivant sera utilisé pour montrer et cacher le formulaire de commentaire, les commentaires et toutes les combinaisons montrer/cacher sauf pour les articles. Cette options est annulée "
+
+#: control/aWP-ajax.php:307
+msgid "What effect would you like to use for your non-post show/hides?"
+msgstr "Quel effet voulez vous utiliser pour vos montrer/cacher vos éléments qui ne sont pas des articles?"
+
+#: control/aWP-ajax.php:318
+msgid "The following effects are only used when the JQuery AJAX Library is selected."
+msgstr "Les effets suivants sont seulment utilisés quand la librairie AJAX JQuery est sélectionée."
+
+#: control/aWP-ajax.php:321
+msgid "JQuery show comments/add comments effect"
+msgstr "JQuery montre les effets de commentaires/ajout de commentaire"
+
+#: control/aWP-ajax.php:322
+#: control/aWP-ajax.php:323
+#: control/aWP-ajax.php:324
+#: control/aWP-ajax.php:352
+msgid "Slide Down"
+msgstr "Glisser vers le Bas"
+
+#: control/aWP-ajax.php:322
+#: control/aWP-ajax.php:325
+#: control/aWP-ajax.php:328
+#: control/aWP-ajax.php:335
+#: control/aWP-ajax.php:338
+#: control/aWP-ajax.php:341
+msgid "Slow"
+msgstr "Lent"
+
+#: control/aWP-ajax.php:323
+#: control/aWP-ajax.php:326
+#: control/aWP-ajax.php:329
+#: control/aWP-ajax.php:336
+#: control/aWP-ajax.php:339
+#: control/aWP-ajax.php:342
+msgid "Fast"
+msgstr "Rapide"
+
+#: control/aWP-ajax.php:325
+#: control/aWP-ajax.php:326
+#: control/aWP-ajax.php:327
+msgid "Fade In"
+msgstr "Fondu Interieur"
+
+#: control/aWP-ajax.php:328
+#: control/aWP-ajax.php:329
+#: control/aWP-ajax.php:330
+msgid "Show"
+msgstr "Montrer"
+
+#: control/aWP-ajax.php:333
+msgid "and hide effect"
+msgstr "et cacher effet"
+
+#: control/aWP-ajax.php:338
+#: control/aWP-ajax.php:339
+#: control/aWP-ajax.php:340
+msgid "Fade Out"
+msgstr "Fondu Exterieur"
+
+#: control/aWP-ajax.php:341
+#: control/aWP-ajax.php:342
+#: control/aWP-ajax.php:343
+msgid "Hide"
+msgstr "Cacher"
+
+#: control/aWP-ajax.php:349
+msgid "The following effects are only used when the Prototype AJAX Library is selected."
+msgstr "Les effets suivants sont seulment utilisés quand la Librairie Prototype AJAX est sélectionée."
+
+#: control/aWP-ajax.php:350
+msgid "Scriptaculous show comments/add comments effect"
+msgstr "Scriptaculous montre les effets de commentaires/ajout de commentaire"
+
+#: control/aWP-ajax.php:353
+msgid "Blind Down"
+msgstr "Blind Down"
+
+#: control/aWP-ajax.php:354
+msgid "Appear"
+msgstr "Apparait"
+
+#: control/aWP-ajax.php:355
+msgid "Grow"
+msgstr "Grandit"
+
+#: control/aWP-ajax.php:358
+msgid "Hide effect"
+msgstr "Cache l'effet"
+
+#: control/aWP-ajax.php:361
+msgid "Blind Up"
+msgstr "Blind Up"
+
+#: control/aWP-ajax.php:362
+msgid "Fade out"
+msgstr "Fondu Exterieur"
+
+#: control/aWP-ajax.php:363
+msgid "Shrink"
+msgstr "Rétrecir"
+
+#: control/aWP-ajax.php:364
+msgid "Puff"
+msgstr "Puff"
+
+#: control/aWP-ajax.php:365
+msgid "Switch Off"
+msgstr "Eteindre"
+
+#: control/aWP-ajax.php:366
+msgid "Drop Out"
+msgstr "Abandonner"
+
+#: control/aWP-ajax.php:367
+msgid "Squish"
+msgstr "Squish"
+
+#: control/aWP-ajax.php:368
+msgid "Fold"
+msgstr "Plier"
+
+#: control/aWP-upgrade.php:30
+msgid "Threaded comments is now its own module, and it no longer requires inline comments for functionality."
+msgstr ""
+
+#: control/aWP-upgrade.php:40
+#: control/aWP-upgrade.php:74
+msgid "Threaded comments module has been activated."
+msgstr ""
+
+#: control/aWP-upgrade.php:44
+msgid "\"AJAXed With AWP\" link is now only displayed on the homepage."
+msgstr ""
+
+#: control/aWP-upgrade.php:46
+msgid "Comment counts now return actual comment count. New tags have been added for trackbacks and total \"comments.\""
+msgstr ""
+
+#: control/aWP-upgrade.php:52
+msgid "Version 1.19.2 fixes bugs with AJAX Nav and Inline Posts module."
+msgstr "La vesrion 1.19.2 répare des bugs avec la navigation AJAX et le module d'articles \"inline\"."
+
+#: control/aWP-upgrade.php:53
+msgid "Admin panel tabs that show empty panels are now hidden after load."
+msgstr "Les onglets du panneau d'admin qui montre des panneaux vides sont maintenant cachés après le chargement."
+
+#: control/aWP-upgrade.php:57
+msgid "Preview comment module now works with Rich Text Editor."
+msgstr ""
+
+#: control/aWP-upgrade.php:62
+msgid "News from the AWP twitter stream is now automatically updated here."
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:345
+msgid "AJAX Page could not be loaded."
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:432
+#, fuzzy
+msgid "Older"
+msgstr "Autres"
+
+#: modules/ajaxnav/ajaxnav.php:438
+msgid "Newer"
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:500
+msgid "Ajax Navigation"
+msgstr "Navigation Ajax"
+
+#: modules/ajaxnav/ajaxnav.php:501
+msgid "Ajax Navigation Options"
+msgstr "Options de Navigation Ajax"
+
+#: modules/ajaxnav/ajaxnav.php:503
+msgid "Use AJAX navigation with specific parts of your blog."
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:504
+msgid "Modify wp_list_pages to load pages inline?"
+msgstr "Modifier wp_list_pages pour charger les pages \"inline\"?"
+
+#: modules/ajaxnav/ajaxnav.php:505
+#, fuzzy
+msgid "Modify wp_list_categories to load archives inline?"
+msgstr "Modifier wp_list_pages pour charger les pages \"inline\"?"
+
+#: modules/ajaxnav/ajaxnav.php:506
+msgid "Load single page navigation inline?"
+msgstr "Charger la navigation \"inline\" pour une page?"
+
+#: modules/ajaxnav/ajaxnav.php:507
+msgid "Load index page navigation inline?"
+msgstr "Charger la navigation de la page principale \"inline\"?"
+
+#: modules/ajaxnav/ajaxnav.php:508
+#, fuzzy
+msgid "Attempt to AJAXify your theme's search form?"
+msgstr "Tentative de modification du theme par défaut de votre modèle de commentaire."
+
+#: modules/ajaxnav/ajaxnav.php:511
+msgid "AJAX everything"
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:512
+msgid "Do not automatically attempt to load blog pages inline."
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:513
+#, fuzzy
+msgid "Attempt to load ALL blog pages inline?"
+msgstr "Modifier wp_list_pages pour charger les pages \"inline\"?"
+
+#: modules/ajaxnav/ajaxnav.php:514
+#, php-format
+msgid "Exclude links with %s in them."
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:515
+msgid "Comma seperated list, simple search, no regex."
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:517
+msgid "Do not use navigation hashes."
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:518
+msgid "This will disable forward and back buttons"
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:522
+msgid "Advanced options for Single Post Navigation"
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:524
+#: modules/ajaxnav/ajaxnav.php:539
+msgid "Show links above posts."
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:528
+#: modules/ajaxnav/ajaxnav.php:543
+msgid "Show navigation links below posts."
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:532
+#: modules/ajaxnav/ajaxnav.php:551
+msgid "Do not show navigation links automatically."
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:533
+#: modules/ajaxnav/ajaxnav.php:552
+msgid "You will have to edit your theme manually."
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:537
+msgid "Advanced options for Home Page Navigation"
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:547
+msgid "Show navigation links both above and below posts."
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:557
+msgid "The following options control the automatic addition of the required awp_loop div. If you select any of the following options, you will have to edit your theme manually to load that type of pages inline."
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:558
+msgid "Do NOT automatically add awp_loop div on Single post/page pages."
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:561
+msgid "Do NOT automatically add awp_loop div on Home and Archive pages."
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:563
+msgid "Do NOT automatically add awp_loop div on ANY page."
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:567
+#, fuzzy
+msgid "Advanced Options."
+msgstr "Options du cache."
+
+#: modules/ajaxnav/ajaxnav.php:569
+msgid "Disable CURL?"
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:570
+msgid "By default, the module tries to use CURL so that users can use cookies still and WordPress will see them as logged in. If you are unable to load any pages, try checking this option."
+msgstr ""
+
+#: modules/ajaxnav/ajaxnav.php:596
+#, fuzzy
+msgid "Navigation"
+msgstr "Navigation Ajax"
+
+#: modules/awp-edit-comments.php:41
+msgid "WP AJAX Edit Comments Options."
+msgstr "Modifier les Options de Commentaire de WP AJAX."
+
+#: modules/awp-edit-comments.php:42
+msgid "WP AJAX Edit Comments Support"
+msgstr "Modifier le Support de Commentaire de WP AJAX."
+
+#: modules/awp-edit-comments.php:43
+msgid "This module just helps WP AJAX Edit Comments to find new inline loaded comments."
+msgstr ""
+
+#: modules/awpcache.php:153
+msgid "Cache Options."
+msgstr "Options du cache."
+
+#: modules/awpcache.php:154
+msgid "Cache"
+msgstr "Cache"
+
+#: modules/awpcache.php:155
+msgid "This module will cache the paginated post (just the paged content that AWP creates not the modifications other plugins do to it), the text of the post show/hide links and the entire comment list with formatting. The module automatically removes the old cached items when they are out of date and re-caches them the next time they are needed. This will speed up processing time exponentially."
+msgstr ""
+
+#: modules/compatabilities.php:84
+msgid "Add compatibility with the following Scripts and Plugins."
+msgstr ""
+
+#: modules/core_cache/core_cache.php:101
+msgid "Core Cache Options."
+msgstr "Options du Cache du Coeur."
+
+#: modules/core_cache/core_cache.php:102
+msgid "Core Cache"
+msgstr "Cache du Coeur"
+
+#: modules/core_cache/core_cache.php:103
+msgid "This module updates a static file when options are saved rather than reloading WP to generate the core JS and CSS files."
+msgstr "Ce module met a jour un fichier statique quand les options sont sauvegardées au lieu de recharger WP pour generer les fichiers JS et CSS du coeur."
+
+#: modules/customoptions.php:112
+msgid "Add Custom Option"
+msgstr "Ajouter une option perso"
+
+#: modules/customoptions.php:136
+msgid "Current Post Custom Options"
+msgstr "Options actuelles d'articles personalisés"
+
+#: modules/customoptions.php:145
+#: modules/customoptions.php:156
+msgid "Delete Option?"
+msgstr "Supprimer l'option?"
+
+#: modules/customoptions.php:146
+#: modules/customoptions.php:157
+msgid "Edit Custom Option"
+msgstr "Editer l'option perso"
+
+#: modules/customoptions.php:234
+#, php-format
+msgid "<strong>Custom Options </strong> -- %s"
+msgstr "<strong>Options Personalisées </strong> -- %s"
+
+#: modules/customoptions.php:235
+msgid "Occasionally certain posts will not fit with the flow of the rest of the site and do not fit with the general options used. Selecting the following option will allow you to use custom options on a post-by-post basis."
+msgstr "Il arrive que certains articles ne s'affichent pas comme les autres du site avec l'option générale. En choisissant cette option vous permettra de mettre les options personalisées article par article."
+
+#: modules/customoptions.php:329
+msgid "Custom AWP options for this post"
+msgstr "Option d'AWP personalisées pour cet article"
+
+#: modules/embeddedposts.php:125
+#: modules/inlineposts.php:511
+msgid "Click to continue reading"
+msgstr "Cliquez pour continuer à lire"
+
+#: modules/embeddedposts.php:129
+#: modules/inlineposts.php:512
+msgid "Click to hide post"
+msgstr "Cliquez pour cacher le post"
+
+#: modules/embeddedposts.php:145
+msgid "Embedded Posts Options"
+msgstr ""
+
+#: modules/embeddedposts.php:146
+msgid "Embedded Posts"
+msgstr "Articles intégrés"
+
+#: modules/embeddedposts.php:148
+#, php-format
+msgid "Show text (for embedded posts): %s"
+msgstr "Montrer le texte (pour les articles intégrés): %s"
+
+#: modules/embeddedposts.php:149
+#, php-format
+msgid "Hide text (for embedded posts): %s"
+msgstr "Cacher le texte (pour les articles intégrés): %s"
+
+#: modules/inlinecommentform/inlinecommentform.php:260
+msgid "Your comment has been submitted"
+msgstr "Votre commentaire à été soumis"
+
+#: modules/inlinecommentform/inlinecommentform.php:399
+msgid "Add Comment Box Options"
+msgstr "Ajouter des Options aux boîtes de Commentaire"
+
+#: modules/inlinecommentform/inlinecommentform.php:400
+msgid "Ajax Comment Form"
+msgstr "Forumlaire de Commentaire en Ajax"
+
+#: modules/inlinecommentform/inlinecommentform.php:402
+msgid "Show text (show comment form)"
+msgstr "Montrer le texte (montrer le formulaire de commentaire)"
+
+#: modules/inlinecommentform/inlinecommentform.php:403
+msgid "Hide text (hide comment form)"
+msgstr "Cacher le texte (cacher le formulaire de commentaire)"
+
+#: modules/inlinecommentform/inlinecommentform.php:406
+msgid "Always hide comment form when canceled?"
+msgstr "Toujours cacher le formulaire de commentaire quand c'est annulé?"
+
+#: modules/inlinecommentform/inlinecommentform.php:407
+msgid "Normally, the comment form is never hidden on single post pages, and is only moved back to its original location. This option will force the comment to hide when the comment form is canceled rather than moving. "
+msgstr "Normalement, le formulaire de commentaire est jamais caché sur les pages d'artcile seul, et est seulment déplacé à sa position d'origine. Cette option forcera le commentaire à se cacher quand le formulaire sera annulé plutôt que déplacé."
+
+#: modules/inlinecommentform/inlinecommentform.php:410
+msgid "Do not move comment form to links."
+msgstr "Ne pas "
+
+#: modules/inlinecommentform/inlinecommentform.php:411
+msgid "Normally, the comment form is moved directly after the link that calls it. Selecting this option will never move the form."
+msgstr "Normalment, le forumlaire de commentaire est déplacé directement après le lien qui le fait apparaitre. En choisissant cette option le formulaire ne bougera plus."
+
+#: modules/inlinecommentform/inlinecommentform.php:416
+msgid "If the following options are selected then on all single posts the add comment box will already be open when the page loads, so users do not have to look for it. It still can be hidden and moved."
+msgstr "Si les options suivantes sont sélectionées alors sur tous les articles seuls la boîte d'ajout de commentaire sera deja ouverte au chargement de la page, donc les utilisateurs n'aurons pas besoin de la chercher. Elle peut encore être cachée et déplacée."
+
+#: modules/inlinecommentform/inlinecommentform.php:417
+msgid "Have Add Comment Box open by default on single post pages?"
+msgstr "Avoir Ajout d'une boîte de commentaire par défaut sur certaines pages?"
+
+#: modules/inlinecommentform/inlinecommentform.php:418
+msgid "Have Add Comment Box open by default on pages?"
+msgstr "Avoir Ajout d'une boîte de commentaire par défaut sur les pages?"
+
+#: modules/inlinecommentform/inlinecommentform.php:419
+msgid "Have Add Comment Box open by default on index page?"
+msgstr "Avoir Ajout d'une boîte de commentaire par défaut sur la page principale?"
+
+#: modules/inlinecommentform/templates/commentform.php:7
+msgid "This post is password protected. Enter the password to comment."
+msgstr "Ce post est protégé pas un mot de passe. Entrez le mot de passe pour commenter."
+
+#: modules/inlinecommentform/templates/commentform.php:16
+msgid "Login"
+msgstr "Connection"
+
+#: modules/inlinecommentform/templates/commentform.php:18
+msgid "Register"
+msgstr "S'enregistrer"
+
+#: modules/inlinecommentform/templates/commentform.php:20
+#, fuzzy, php-format
+msgid "Sorry, you must %s to post a comment."
+msgstr "Désolé, vous devez % pour poster un commentaire."
+
+#: modules/inlinecommentform/templates/commentform.php:56
+msgid "Leave a reply"
+msgstr "Laisser une réponse"
+
+#: modules/inlinecommentform/templates/commentform.php:75
+#, php-format
+msgid "Logged in as <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>"
+msgstr "Connecté en temps que <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>"
+
+#: modules/inlinecommentform/templates/commentform.php:80
+msgid "Name"
+msgstr "Nom"
+
+#: modules/inlinecommentform/templates/commentform.php:80
+#: modules/inlinecommentform/templates/commentform.php:83
+msgid "(required)"
+msgstr "(requis)"
+
+#: modules/inlinecommentform/templates/commentform.php:83
+msgid "Mail"
+msgstr "Mail"
+
+#: modules/inlinecommentform/templates/commentform.php:83
+msgid "(will not be published)"
+msgstr "(ne sera pas publié)"
+
+#: modules/inlinecommentform/templates/commentform.php:86
+msgid "Website"
+msgstr "Site internet"
+
+#: modules/inlinecommentform/templates/commentform.php:95
+msgid "Comment"
+msgstr "Commentaire"
+
+#: modules/inlinecommentform/templates/commentform.php:110
+msgid "Submit Comment"
+msgstr "Soumettre le Commentaire"
+
+#: modules/inlinecomments/inlinecomments.php:122
+msgid "Show Posts Comments"
+msgstr "Montrer les commentaires"
+
+#: modules/inlinecomments/inlinecomments.php:123
+msgid "Hide Post Comments"
+msgstr "Cacher les commentaires"
+
+#: modules/inlinecomments/inlinecomments.php:191
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Cet article est protégé par un mot de passe. Entrez le mot de passe pur voir les commentaires."
+
+#: modules/inlinecomments/inlinecomments.php:290
+msgid "Inline Comments"
+msgstr "Commentaires \"inline\""
+
+#: modules/inlinecomments/inlinecomments.php:291
+msgid "Inline Comments Module."
+msgstr "Module de commentaire \"inline\"."
+
+#: modules/inlinecomments/inlinecomments.php:294
+msgid "Use Simple Comments?"
+msgstr "Utiliser des commentaires simples?"
+
+#: modules/inlinecomments/inlinecomments.php:295
+msgid "\"Simple Comments\" allows you to continue using comments_template in your theme files, and will automatically replace your default template with AWP comments and the AWP comment form."
+msgstr ""
+
+#: modules/inlinecomments/inlinecomments.php:300
+msgid "The following texts are for comments. You can use the tags %title, %author, %date, %count, %trackbacks, %time, and %total to show their respective data in the following textboxes."
+msgstr ""
+
+#: modules/inlinecomments/inlinecomments.php:302
+#, php-format
+msgid "Show text: %s"
+msgstr "Montrer le texte: %s"
+
+#: modules/inlinecomments/inlinecomments.php:303
+#, php-format
+msgid "Hide text: %s"
+msgstr "Cacher le texte: %s"
+
+#: modules/inlinecomments/inlinecomments.php:305
+#, php-format
+msgid "No Comments Text: %s"
+msgstr "Texte en cas d'absence de commentaire: %s"
+
+#: modules/inlinecomments/inlinecomments.php:306
+#, php-format
+msgid "Comments closed text: %s"
+msgstr "Texte en cas de commentaires fermés: %s"
+
+#: modules/inlinecomments/inlinecomments.php:311
+msgid "On pages and single posts you may have the comments open by default. This will allow the user to refresh the comments and post using AJAX, but allows search engines and users without Javascript to see the comments by default."
+msgstr ""
+
+#: modules/inlinecomments/inlinecomments.php:314
+msgid "Have Comments open by default on single post pages?"
+msgstr "Avoir les commentaires ouvert par défaut sur les pages d'article seul?"
+
+#: modules/inlinecomments/inlinecomments.php:318
+msgid "Have Comments open by default on pages?"
+msgstr "Avoir les Commentaires ouverts par défaut?"
+
+#: modules/inlinecomments/inlinecomments.php:322
+msgid "Have Comments open by default on the index page?"
+msgstr "Avoir les Commentaires ouverts par défaut sur la page d'acceuil?"
+
+#: modules/inlinecomments/inlinecomments.php:328
+msgid "Comments work best when used with AWP's default template; however it can be changed with some restrictions: if you set it to use the theme's default comment template then the add comment box will be disabled and the show/hide comments link will work for both add comments and comments, and you will no longer be able to use AJAX comments."
+msgstr ""
+
+#: modules/inlinecomments/inlinecomments.php:331
+msgid "Use the default template for AWP that is built into the plugin."
+msgstr ""
+
+#: modules/inlinecomments/inlinecomments.php:332
+msgid "(This can be customized below.)"
+msgstr "(Cela peut être personnalisé en dessous.)"
+
+#: modules/inlinecomments/inlinecomments.php:336
+msgid "Attempt to modify your theme's default comment template."
+msgstr "Tentative de modification du theme par défaut de votre modèle de commentaire."
+
+#: modules/inlinecomments/inlinecomments.php:337
+msgid "If you use this method, your theme must use a standard template that is based on &amp;lt;ol> tags or you must edit it for compatibility."
+msgstr ""
+
+#: modules/inlinecomments/inlinecomments.php:337
+msgid "To make a file not based on an &amp;lt;ol> list compatible, you must add &amp;lt;!--awp_comments--> directly before the tag that starts your comment list and directly after the tag that ends it. There must be no characters or blank space between the two."
+msgstr ""
+
+#: modules/inlinecomments/inlinecomments.php:337
+#: modules/inlinecomments/inlinecomments.php:342
+#: modules/threaded_comments.php:357
+msgid "Certain features may not be available."
+msgstr "Certaines fonctions peuvent ne pas être disponibles."
+
+#: modules/inlinecomments/inlinecomments.php:341
+msgid "Use your theme's default comment template."
+msgstr "Utiliser le modèle de commentaire par défaut de votre thème."
+
+#: modules/inlinecomments/inlinecomments.php:342
+msgid "Template must be named comments.php and be a standard template."
+msgstr ""
+
+#: modules/inlinecomments/inlinecomments.php:346
+msgid "Use a custom awp comment template for your theme."
+msgstr ""
+
+#: modules/inlinecomments/inlinecomments.php:347
+msgid "This should be named awp-comments.php and must reside inside your default theme folder. This is separate from the overall option to move templates into your theme folder. This option is for when you want to basically use the default comments.php file with just a couple tweaks."
+msgstr ""
+
+#: modules/inlinecomments/inlinecomments.php:349
+msgid "Show newest comments first?"
+msgstr "Montrer en premier les nouveaux commentaires?"
+
+#: modules/inlinecomments/inlinecomments.php:354
+msgid "Separate Pingbacks/trackbacks from normal comments (ones loaded with the rest of the page):"
+msgstr ""
+
+#: modules/inlinecomments/inlinecomments.php:357
+#: modules/inlinecomments/inlinecomments.php:374
+msgid "Do not separate comments from trackbacks."
+msgstr "Ne pas séparer les commentaires des rétroliens."
+
+#: modules/inlinecomments/inlinecomments.php:361
+#: modules/inlinecomments/inlinecomments.php:378
+msgid "Separate trackbacks from comments."
+msgstr "Sépare les rétroliens des commentaires."
+
+#: modules/inlinecomments/inlinecomments.php:362
+#: modules/inlinecomments/inlinecomments.php:379
+msgid "This will move the trackbacks to the bottom of the comment list."
+msgstr ""
+
+#: modules/inlinecomments/inlinecomments.php:366
+#: modules/inlinecomments/inlinecomments.php:383
+msgid "Do not show Trackbacks."
+msgstr "Ne pas montrer les Rétroliens."
+
+#: modules/inlinecomments/inlinecomments.php:367
+#: modules/inlinecomments/inlinecomments.php:384
+msgid "Trackbacks will not show up at all when the comments are loaded through AWP."
+msgstr ""
+
+#: modules/inlinecomments/inlinecomments.php:371
+msgid "Separate Pingbacks/trackbacks from <i>inline</i> comments (ones loaded after the rest of the page loads):"
+msgstr ""
+
+#: modules/inlinecomments/inlinecomments.php:389
+msgid "If you need the default template to fit in specifically with your theme, then you may set the specific elements here"
+msgstr "Si vous avez besoin que le modèle par défaut specialement avec votre thème, vous devez donc définir l'ensemble des éléments ici"
+
+#: modules/inlinecomments/inlinecomments.php:391
+#, php-format
+msgid " Tag before/after all comments: %s /"
+msgstr "Tag avant /après tous les commentaires: %s /"
+
+#: modules/inlinecomments/inlinecomments.php:393
+msgid "Suggested tags for this level: ol or div. To have indentation without using an ordered list (to fit in with your theme.) Use divs and add the following to your style.css file. <code>.post_comments div * > div {padding-left:1em;}</code>"
+msgstr ""
+
+#: modules/inlinecomments/inlinecomments.php:396
+#, php-format
+msgid " Tag before/after reply comments: %s /"
+msgstr "Méta-données (Tags) avant/après une réponse au commentaire: %s /"
+
+#: modules/inlinecomments/inlinecomments.php:398
+msgid "Suggested tags for this level: ol or div."
+msgstr "Suggestion de tags pour ce niveau: ol ou div."
+
+#: modules/inlinecomments/inlinecomments.php:401
+#, php-format
+msgid " Tag before/after each comment: %s /"
+msgstr "Méta-données (Tags) avant/après chaque commentaire: %s /"
+
+#: modules/inlinecomments/inlinecomments.php:403
+msgid "Suggested tags for this level: li or div."
+msgstr "Méta-données (Tags) suggérés pour ce niveau: li ou div"
+
+#: modules/inlinecomments/inlinecomments.php:406
+#, php-format
+msgid " Tag before/after Title Bar: %s /"
+msgstr "Tag avant/après le Titre: %s /"
+
+#: modules/inlinecomments/inlinecomments.php:408
+msgid "Suggested tags for this level: p, div or span"
+msgstr "Méta-données (Tags) suggérées pour ce niveau: p, div ou span"
+
+#: modules/inlinecomments/templates/comment.php:22
+#, php-format
+msgid "%1$s posted the following on %2$s at %3$s."
+msgstr "%1$s a posté ceci le %2$s a %3$s."
+
+#: modules/inlinecomments/templates/comment.php:24
+msgid "- Edit"
+msgstr "-Modifier"
+
+#: modules/inlinecomments/templates/comment.php:34
+msgid "This comment is awaiting moderation."
+msgstr "Ce commentaire attend d'être moderé."
+
+#: modules/inlinecomments/templates/simplecomments.php:17
+msgid "Do not load this file directly."
+msgstr "Ne chargez ce fichier directement."
+
+#: modules/inlinecomments/templates/trackback.php:14
+#, php-format
+msgid "Trackback from %s"
+msgstr "Rétrolien de  %s"
+
+#: modules/inlinecomments/templates/trackback.php:16
+#, php-format
+msgid "Pingback from %s"
+msgstr "Pingback de %s"
+
+#: modules/inlinecomments/templates/trackbacks.php:5
+msgid "Trackbacks and Pingbacks"
+msgstr "Rétroliens et PingBacks"
+
+#: modules/inlineposts.php:638
+msgid "Inline Post Options."
+msgstr "Options des articles \"inline\"."
+
+#: modules/inlineposts.php:639
+msgid "Inline Posts"
+msgstr "Article \"inline\""
+
+#: modules/inlineposts.php:641
+msgid "Use Simple Posts"
+msgstr "Utiliser des Posts Simples"
+
+#: modules/inlineposts.php:642
+msgid "Simple Posts\" allows you to continue using the_content and the_excerpt in your theme file, but the plugin will work as if you edited your theme files. This will also filter anything that applies the content and excerpt filters. This <em>may</em> cause undesirable effects with certain plugins; if you have any problems with it, you may want to edit your files as described in the instructions."
+msgstr ""
+
+#: modules/inlineposts.php:647
+msgid "The following texts are the default texts displayed when a post has more than one page. You can use the tags %title, %author, %date, %categories, %count (comment count) and %time to show their respective data in the following textboxes."
+msgstr ""
+
+#: modules/inlineposts.php:649
+#, php-format
+msgid "Show text (for posts): %s"
+msgstr "Montrer le texte (pour les articles): %s"
+
+#: modules/inlineposts.php:650
+#, php-format
+msgid "Hide text (for posts): %s"
+msgstr "Cacher le texte (pour les articles): %s"
+
+#: modules/inlineposts.php:652
+msgid "Automatically use \"go straight to post\" link?"
+msgstr "Utiliser automatiquement le lien \"allerdirectement à l'article\"?"
+
+#: modules/inlineposts.php:653
+#, php-format
+msgid "Go straight to post text: %s"
+msgstr "Aller directement à l'article: %s"
+
+#: modules/inlineposts.php:657
+msgid "Use the following method to create excerpts or pages."
+msgstr "Utiliser la méthode suivant pour créer des extraits ou pages."
+
+#: modules/inlineposts.php:659
+msgid "Only on more or nextpage tags."
+msgstr "Seulment sur les tags plus ou page suivante."
+
+#: modules/inlineposts.php:660
+msgid "This option will only split a post when you specifically set a &lt;!--more--&gt; or &lt;!--nextpage--&gt; tag."
+msgstr ""
+
+#: modules/inlineposts.php:662
+msgid "By paragraphs (unless more tag)."
+msgstr "Par paragraphes (à moins qu'il y ait plus de tag)."
+
+#: modules/inlineposts.php:663
+msgid "This is a dumb method, so its use is not recommended because it does not differentiate between a 10 word paragraph and a 400 word one. By default a more tag will always overrule this option."
+msgstr ""
+
+#: modules/inlineposts.php:665
+msgid "By word count (with full sentences)."
+msgstr "Compter par mot (avec des phrases entières)."
+
+#: modules/inlineposts.php:666
+msgid "This is you best option to have a uniform look and feel while keep posts attractive and easy to read for readers. This will create use your word count as a guide and fit in as many complete sentences as possible. By default a more tag will always overrule this option."
+msgstr "C'est la meilleur option pour avoir un look uniforme tout en gardant vos posts attractifs et faciles à lire. Ceci utilise le compte de vos mots en temps que guide et dans le plus de phrases possibles. Par défaut un plus de tag sera toujours prioritaires à cette option."
+
+#: modules/inlineposts.php:668
+msgid "By word count (exact word count)."
+msgstr "Compter par mot (exactement par mot)."
+
+#: modules/inlineposts.php:669
+msgid "This is a \"dumb\" method. It chops off pages at exactly the number of words specified. By default a more tag will always overrule this option"
+msgstr ""
+
+#: modules/inlineposts.php:671
+#, php-format
+msgid "Show %s words or paragraphs."
+msgstr "Montrer %s mots ou paragraphes."
+
+#: modules/inlineposts.php:672
+msgid "Whether this is used to determine paragraphs or words will depend on your split mode, so if you change your split mode do not forget to change this also."
+msgstr "C'est utilisé pour déterminer des paragraphs ou des mots, cela dépend de votre mode de division, donc si vous changez de mode de division n'oubliez pas de changer ça aussi."
+
+#: modules/inlineposts.php:674
+msgid "Strip excerpt?"
+msgstr "Extrait des Strips?"
+
+#: modules/inlineposts.php:675
+msgid "By default after clicking to see the rest of a post, the excerpt will be re-shown. This option will trim the excerpt from the post."
+msgstr ""
+
+#: modules/inlineposts.php:677
+msgid "Hide default excerpt?"
+msgstr "Cacherles extraits par défaut?"
+
+#: modules/inlineposts.php:678
+msgid "Normally, AWP automatically uses a explicitly set excerpt, if it exists; selecting this option disables this behavior."
+msgstr "Normalement, AWP utilse automatiquement un extrait explicite, si il existe; en choisissant cette option cela le désactive."
+
+#: modules/inlineposts.php:680
+msgid "Strip HTML in preview?"
+msgstr "Strip HTML en aperçu?"
+
+#: modules/inlineposts.php:681
+msgid "If HTML is stripped, links, text decoration, images and all other HTML will be removed."
+msgstr ""
+
+#: modules/inlineposts.php:684
+msgid "Treat code, bloquotes and pre blocks as single words?"
+msgstr ""
+
+#: modules/inlineposts.php:685
+msgid "When posts are split based on paragraphs or words, this option will protect blockquotes, code and pre blocks from being included in the word count. This may mean that a long code segment etc may go over the specified length; however, this is probably preferable to users only getting a partial segment."
+msgstr ""
+
+#: modules/inlineposts.php:690
+msgid "Use awp_pages function for post show/hide links?"
+msgstr "Utiliser les fonctions awp_pages pour les liens montrer/cacher des articles?"
+
+#: modules/inlineposts.php:691
+msgid "If this option is checked no link will be shown unless you add do_action('awp_pages'); or awp_title() inside your theme. Not recommended for beginners."
+msgstr "Si cette option est cochée aucun lien ne sera affiché à moins que vous ajoutiez do_action('awp_pages');  ou awp_title() dans votre thème. Par recommendé pour des débutants."
+
+#: modules/inlineposts.php:697
+msgid "Inline Paginated Posts"
+msgstr "Articles Paginés \"Inline\" "
+
+#: modules/inlineposts.php:698
+msgid "Inline Post Pagination Options."
+msgstr "Options de la pagination des articles \"inline\"."
+
+#: modules/inlineposts.php:699
+msgid "By default AWP only creates two pages, a short preview and everything else; however, by enabling the Post Pagination you will be able to create additional pages to further split the post. This is in addition to the Inline Post Module: not a replacement for it."
+msgstr ""
+
+#: modules/inlineposts.php:701
+#, php-format
+msgid "Each page after the excerpt should be %s words or paragraphs (based on the split mode) long."
+msgstr ""
+
+#: modules/inlineposts.php:704
+msgid "The following options will style your page links (if you have any). Each may contain XHTML"
+msgstr ""
+
+#: modules/inlineposts.php:706
+#: modules/paginatedpages.php:89
+msgid "Combined the example options with CSS styling yield: <br /><ul class=\"examplemenu\" style=\"display:inline !important;\"> <li><a>Page 1 </a></li><li><a>Page 2 </a></li><li><a>Page 3 </a></li></ul>"
+msgstr ""
+
+#: modules/inlineposts.php:708
+#: modules/paginatedpages.php:91
+msgid " Before page list."
+msgstr "Avant la liste des pages."
+
+#: modules/inlineposts.php:709
+#: modules/paginatedpages.php:92
+msgid "(&lt;ul&gt;)"
+msgstr "(&lt;ul&gt;)"
+
+#: modules/inlineposts.php:711
+#: modules/paginatedpages.php:94
+msgid " After page list."
+msgstr "Liste de page suivante."
+
+#: modules/inlineposts.php:712
+#: modules/paginatedpages.php:95
+msgid "&lt;li&gt;"
+msgstr "&lt;li&gt;"
+
+#: modules/inlineposts.php:714
+#: modules/paginatedpages.php:97
+msgid " Before individual page links."
+msgstr "Avant les liens individuels de page."
+
+#: modules/inlineposts.php:715
+#: modules/inlineposts.php:718
+#: modules/paginatedpages.php:98
+#: modules/paginatedpages.php:101
+msgid "(&lt;li&gt;)"
+msgstr "(&lt;li&gt;)"
+
+#: modules/inlineposts.php:717
+#: modules/paginatedpages.php:100
+msgid " After individual page links."
+msgstr "Après les liens des pages individuelles."
+
+#: modules/inlineposts.php:720
+#: modules/paginatedpages.php:103
+msgid "The page links"
+msgstr "Les liens de la page"
+
+#: modules/inlineposts.php:721
+#: modules/paginatedpages.php:104
+msgid "A % sign will be replaced with the page number (Page % )"
+msgstr "Un % sign sera remplacé avec le numero de page (Page %)"
+
+#: modules/inlineposts.php:723
+#: modules/paginatedpages.php:106
+msgid "Separator between individual page links"
+msgstr "Séparateur entre les liens des pages individueles"
+
+#: modules/inlineposts.php:724
+msgid "Paginate single page posts also?"
+msgstr "Paginer aussi les articles de page individuelle?"
+
+#: modules/livepreview/livepreview.php:59
+msgid "You will post the following soon."
+msgstr "Vous allez bientôt poster ceci."
+
+#: modules/livepreview/livepreview.php:62
+msgid "Go ahead and start typing."
+msgstr "Allez-y commencez à écrire."
+
+#: modules/livepreview/livepreview.php:155
+msgid "Live Preview Options"
+msgstr "Options de l'aperçu en Direct"
+
+#: modules/livepreview/livepreview.php:156
+msgid "Live Preview"
+msgstr "Aperçu Direct"
+
+#: modules/livepreview/livepreview.php:158
+msgid "Do not show any html in the live preview. Kinda defeats the purpose of the live preview."
+msgstr "Ne pas montrer d'html dans l'aperçu en Direct. D'une certaine façon cela s'oppose au but de l'aperçu en direct."
+
+#: modules/livepreview/livepreview.php:160
+#, php-format
+msgid "Do not display the following tags %s Use just the tag names separated with spaces. (form table input strong etc.)"
+msgstr "Ne pas montrer les tags suivants %s Utilisez seulment les noms de tags séparés avec des espaces.  (form table input strong etc.)"
+
+#: modules/livepreview/livepreview.php:166
+msgid "By default AWP styles the preview as if it were a comment"
+msgstr "Par défaut AWP modèlise l'aperçu comme si c'était un commentaire"
+
+#: modules/livepreview/livepreview.php:168
+msgid "Do not style live preview as comment."
+msgstr "Ne pas afficher l'aperçu avec le style des commentaires."
+
+#: modules/livepreview/livepreview.php:169
+#, php-format
+msgid "Text or XHTML before live comment preview. %s You may use XHTML code or text. Example: &amp;lt;p>You say:&amp;lt;/p>"
+msgstr "Texte ou XHTML avant un aperçu du commentaire. %s Vous devez utiliser du code XHTML ou du texte. Example: &amp;lt;p>Vous dites:&amp;lt;/p>"
+
+#: modules/livepreview/livepreview.php:170
+#, php-format
+msgid "Text or XHTML after live comment preview. %s You may use XHTML code or text."
+msgstr "Texte ou XHTML après un aperçu du commentaire. %s Vous devez utiliser du code XHTML ou du texte."
+
+#: modules/livepreview/livepreview.php:187
+msgid "Automatically convert smilies to images? (May cause a small amount of lag for fast typers)"
+msgstr "Convertir automatiquement les smillies en images? (Peut causer une petite quantitée de ralentissement pour ceux qui écrivent vite)"
+
+#: modules/paginatedpages.php:84
+msgid "Paginated Pages Options"
+msgstr "Options des Pages Paginées"
+
+#: modules/paginatedpages.php:85
+msgid "Paginated Pages"
+msgstr "Pages Paginées"
+
+#: modules/paginatedpages.php:87
+msgid "The following options will style your default page links (if you have any). Each may contain XHTML"
+msgstr ""
+
+#: modules/preview_comment.php:92
+msgid "Preview"
+msgstr "Aperçu"
+
+#: modules/preview_comment.php:109
+msgid "Preview Comment"
+msgstr "Aperçu du commentaire"
+
+#: modules/preview_comment.php:110
+msgid "Preview comment Options"
+msgstr "Options de l'aperçu de commentaire"
+
+#: modules/quicktags/quicktags.php:46
+#, php-format
+msgid "<strong>Quicktags</strong> -- %s Show buttons above comment form to add html tags such as &lt;strong&gt; and &lt;code&gt;"
+msgstr "<strong>Tagsrapides</strong> -- %s Montre des buttons au dessus du formulaire de commentaire pour ajouter des tags html comme &lt;gras&gt; et &lt;code&gt;"
+
+#: modules/quicktags/quicktags.php:63
+#, php-format
+msgid "<strong>Clickable Smilies</strong> -- %s Show all available smilies above comment form, and automatically add them to comments when clicked."
+msgstr "<strong>Clickable Smilies</strong> -- %s Show all available smilies above comment form, and automatically add them to comments when clicked."
+
+#: modules/quicktags/quicktags.php:64
+msgid "You must have WordPress smilies enabled for this feature to be useful."
+msgstr ""
+
+#: modules/quicktags/quicktags.php:104
+msgid "Close all open tags"
+msgstr "Fermer tous les Méta-données (Tags)"
+
+#: modules/quicktags/quicktags.php:104
+msgid "Close Tags"
+msgstr "Fermer les Méta-données (Tags)"
+
+#: modules/recaptcha/recaptcha.php:106
+msgid "Please hit back on your browser and try again."
+msgstr "Veuillez cliquer sur retour à la page précédente de votre navigateur et essayer de nouveau."
+
+#: modules/recaptcha/recaptcha.php:106
+msgid "You may want to copy your comment to ensure it is saved."
+msgstr "Vous devriez copier votre commentaire pour être sur qu'il est sauvegardé."
+
+#: modules/recaptcha/recaptcha.php:109
+#, php-format
+msgid "ReCaptcha was incorrect. Please try again. %s"
+msgstr "ReCaptcha invalide. Veuillez réessayer. %s"
+
+#: modules/recaptcha/recaptcha.php:131
+msgid "AJAXed WordPress reCAPTCHA"
+msgstr "reCAPTCHA d'AJAXed WordPress"
+
+#: modules/recaptcha/recaptcha.php:132
+msgid "reCAPTCHA Module."
+msgstr "Module reCAPTCHA."
+
+#: modules/recaptcha/recaptcha.php:133
+#: modules/recaptcha/recaptcha.php:211
+msgid "reCAPTCHA asks commenters to read two words from a book. One of these words proves that they are a human, not a computer. The other word is a word that a computer could not read. Because the user is known to be a human, the reading of that word is probably correct. So you do not get comment spam, and the world gets books digitized. Everybody wins! For details, visit the <a href=\"http://recaptcha.net/\">reCAPTCHA website</a>."
+msgstr "reCAPTCHA demande aux commentateurs de lire deux mot d'un livre. Un de ces mots prouve qu'il sont humains, pas des ordinateurs. L'autre est un mot qu'un ordinateur ne peut pas lire. Car on sait que l'utilisateur est un humain et donc il peut le lire. Donc vous n'avez pasr de spam, et le monde a des livres numérisés. Tout le monde gagne! Pour avoir plus de détails allez sur  <a href=\"http://recaptcha.net/\">le site internet de reCAPTCHA</a>"
+
+#: modules/recaptcha/recaptcha.php:135
+#: modules/recaptcha/recaptcha.php:221
+#, php-format
+msgid "reCAPTCHA requires an API key, consisting of a \"public\" and a \"private\" key. You can sign up for a free API key for %s ."
+msgstr "Une clée API est requise pour reCAPTCHA, composée d'une clée \"publique\" et une \"privée\". Vous pouvez vous inscrire pour avoir une clée API gratuite %s ."
+
+#: modules/recaptcha/recaptcha.php:135
+msgid "This key is stored separate from other aWP options, and uses the same administration panel as the main WordPress reCAPTCHA plugin under the options menu."
+msgstr "Cette clée est stockée séparément des autres options d'AWP, et utilise le même panneau d'administration que le plugin reCAPTCHA de WordPress sous le menu d'options."
+
+#: modules/recaptcha/recaptcha.php:137
+msgid "Form Color"
+msgstr "Formulaire de couleur"
+
+#: modules/recaptcha/recaptcha.php:138
+msgid "Clean"
+msgstr "Nettoyer"
+
+#: modules/recaptcha/recaptcha.php:139
+msgid "Red"
+msgstr "Rouge"
+
+#: modules/recaptcha/recaptcha.php:140
+msgid "White"
+msgstr "Blanc"
+
+#: modules/recaptcha/recaptcha.php:141
+msgid "Black Glass"
+msgstr "Verre Noir"
+
+#: modules/recaptcha/recaptcha.php:144
+msgid "Form Language"
+msgstr "Language du Formulaire"
+
+#: modules/recaptcha/recaptcha.php:210
+msgid "reCAPTCHA Options"
+msgstr "Options reCAPTCHA"
+
+#: modules/recaptcha/recaptcha.php:218
+msgid "reCAPTCHA Key"
+msgstr "Clée reCAPTCHA"
+
+#: modules/recaptcha/recaptcha.php:223
+msgid "Public Key"
+msgstr "Clée Publique"
+
+#: modules/recaptcha/recaptcha.php:226
+msgid "Private Key"
+msgstr "Clée Privée"
+
+#: modules/recaptcha/recaptcha.php:234
+msgid "Update Options"
+msgstr "Mettre à jour les Options"
+
+#: modules/removemores.php:38
+msgid "Remove more tags from posts from before AWP was activated?"
+msgstr "Supprimer les tags présents avant l'activation de AWP?"
+
+#: modules/removemores.php:39
+msgid "If you used more tags before you installed AWP then you may remove them with this module. Posts after the first install date will not have more tags removed."
+msgstr ""
+
+#: modules/richtext/awp-richeditor.php:84
+msgid "Toggle WYSIWYG"
+msgstr "Mettre WYSIWYG"
+
+#: modules/richtext/awp-richeditor.php:162
+msgid "AWP RichText Options."
+msgstr "Options du TexteEnrichie de AWP"
+
+#: modules/richtext/awp-richeditor.php:163
+msgid "AWP Richtext Support"
+msgstr "Support du texte enrichie d'AWP"
+
+#: modules/richtext/awp-richeditor.php:164
+msgid "This module adds the abiliuty to use a WYSIWYG interface with the comment form on single pages."
+msgstr "Ce module ajoute la possiblilitée d'utiliser une interface WYSIWYG avec le formulaire de commentaires sur seulement certaines pages."
+
+#: modules/shift_pages.php:39
+msgid "Move pages so the first page (the normal excerpt) is empty? "
+msgstr "Deplacer les pages de façon à ce que la première page (sauf la normal) est vide?"
+
+#: modules/threaded_comments.php:151
+msgid "Show Replies to this Comment"
+msgstr "Montrer les réponses pour ce commentaire"
+
+#: modules/threaded_comments.php:186
+msgid "Invalid parent"
+msgstr "Parent Invalide"
+
+#: modules/threaded_comments.php:352
+msgid "Threaded Comments"
+msgstr ""
+
+#: modules/threaded_comments.php:353
+msgid "Threaded Comments Module."
+msgstr ""
+
+#: modules/threaded_comments.php:356
+msgid "Use Simple Threading to thread comments on your theme's default comments.php?"
+msgstr ""
+
+#: modules/threaded_comments.php:357
+msgid "\"Simple Threading\" will attempt to use your default comment template to thread comments."
+msgstr ""
+
+#: modules/threaded_comments.php:357
+msgid "If you use this method, your theme must use a standard template that is based on &amp;lt;ol> tags or have been edited for compatibility"
+msgstr ""
+
+#: modules/threaded_comments.php:357
+msgid "To make a file not based on an &amp;lt;ol> list compatible, you must add &amp;lt;!--AWP_inlinecomments--> directly before the tag that starts your comment list and directly after the tag that ends it. There must be no characters or blank spaces between the two."
+msgstr ""
+
+#: modules/threaded_comments.php:361
+msgid "Show comment form text for replies to comments"
+msgstr "Montrer le texte du formulaire de commentaire pour les réponse à des commentaires"
+
+#: modules/threaded_comments.php:362
+msgid "Hide comment form text for replies to comments"
+msgstr "Cacher le texte du formulaire de commentaire pour les réponse à des commentaires"
+
+#: modules/threaded_comments.php:365
+#, php-format
+msgid "Thread comments %s replies deep."
+msgstr ""
+
+#: modules/threaded_comments.php:366
+msgid "Depth is the number of child replies that will be shown before they are no longer nested inside of each other. (A number of 1 will thread comments, but will show them without nesting. This is useful for older posts, so readers can read comments in context.)"
+msgstr ""
+
+#: modules/threaded_comments.php:371
+msgid "When using threaded comments what do you want done with children comments when their parents are deleted?"
+msgstr ""
+
+#: modules/threaded_comments.php:374
+msgid "Do nothing."
+msgstr "Ne rien faire."
+
+#: modules/threaded_comments.php:375
+msgid "Child comments will be stranded and will not be displayed."
+msgstr ""
+
+#: modules/threaded_comments.php:379
+msgid "Shift child comments up a level."
+msgstr "Monte les commentaires enfant a un niveau superieur."
+
+#: modules/threaded_comments.php:380
+msgid "Child comments will become the children of the parent comment's parent or be a top-level comment."
+msgstr ""
+
+#: modules/threaded_comments.php:384
+msgid "Reset child comments to have no parent."
+msgstr ""
+
+#: modules/threaded_comments.php:385
+msgid "Replies to the child comments will remain threaded to the child comments."
+msgstr ""
+
+#: modules/threaded_comments.php:389
+msgid "Delete all child comments."
+msgstr "Supprimer tous les commentaires enfants."
+
+#: modules/threaded_comments.php:390
+msgid "Including the replies to child comments."
+msgstr "Inclure les réponses aux commentaires enfants."
+
+#~ msgid "AWP Managment"
+#~ msgstr "Gestion de AWP"
+#~ msgid "AJAX functionality has been disabled for this post."
+#~ msgstr "La fonction AJAX a étée désactivée pour cet article"
+#~ msgid ""
+#~ "Need Help? <a href=\"http://anthologyoi.com/awp/\">Visit the Official AWP "
+#~ "support thread</a> or try reading <a href=\"http://anthologyoi.com/awp/"
+#~ "ajaxd-wordpress-readme\">the full documentation</a>."
+#~ msgstr ""
+#~ "Besoin d'aide? <a href=\"http://anthologyoi.com/awp/\">Allez voir le "
+#~ "topic de support officiel d'AWP</a> or try reading <a href=\"http://"
+#~ "anthologyoi.com/awp/ajaxd-wordpress-readme\">the full documentation</a>."
+#~ msgid ""
+#~ "This plugin is a free and open source project that has been in constant "
+#~ "development for almost two years. I have personally invested hundreds of "
+#~ "hours into the project and have tried to provide the best free support "
+#~ "possible. Have you found aWP useful?"
+#~ msgstr ""
+#~ "Ce plugin est gratuit et un projet open source qui a été en développement "
+#~ "constant depuis environ deux ans. J'ai personellement investi des "
+#~ "centaines d'heures dans ce projet et essayé de fournir la meilleure aide "
+#~ "possible. Avez-vous trouvé AWP utile ?"
+#~ msgid "You have new Messages."
+#~ msgstr "Vous avez de nouveaux messages."
+#~ msgid "Lightbox Options."
+#~ msgstr "Options de Lightbox"
+#~ msgid "Lightbox Support"
+#~ msgstr "Support Lightbox"
+#~ msgid ""
+#~ "This module just forces Lightbox to update its image lists when new posts "
+#~ "or comments are loaded inline."
+#~ msgstr ""
+#~ "Ce module force Lightbox à mettre a jour ses listes d'images quand des "
+#~ "nouveaux articles ou commentaires son chargés \"inline\"."
+#~ msgid "Which \"Lightbox\" script do you use."
+#~ msgstr "Le script de  \"Lightbox\"  que vous utilisez."
+
